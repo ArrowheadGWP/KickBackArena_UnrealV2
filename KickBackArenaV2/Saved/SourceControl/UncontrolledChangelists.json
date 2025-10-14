@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Maps/MultiArena.umap",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Characters/BP_Quinn.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Characters/BS_MovementQuinn.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Characters/Heroes/Mannequin/Animations/AimOffsets/AO_MF_Pistol_Idle_ADS.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Characters/ABP_Hero_Quinn.uasset"
+			]
+		}
+	]
+}
