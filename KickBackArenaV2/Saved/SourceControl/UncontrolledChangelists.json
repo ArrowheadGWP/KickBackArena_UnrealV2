@@ -12,6 +12,17 @@
 				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Characters/BP_Hero_Quinn.uasset",
 				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/BP_GM_Shooter.uasset",
 				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Weapons/Rifle/Mesh/SK_Rifle_Skeleton.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/BP_GI_ArenaMenu.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GM_Shooter.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GMB_Menu.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_MenuPawn.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_PC_Menu.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Shooter/BP_GM_Shooter.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Maps/Menus/MainMenu.umap",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Maps/Menus/LobbyMenu.umap",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Widgets/WBP_MainMenu.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Shooter/BP_PC_Arena.uasset",
 				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Characters/BP_Quinn.uasset"
 			]
 		}
