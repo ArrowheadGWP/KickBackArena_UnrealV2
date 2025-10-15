@@ -2549,3 +2549,531 @@ Script Stack (0 frames) :
 [2025.10.15-14.15.33:547][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2025.10.15-14.15.33:579][959]LogPlayLevel: Display: Destroying online subsystem :Context_22
 [2025.10.15-14.15.39:957][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.15-14.18.03:341][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7685.229004
+[2025.10.15-14.18.04:673][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.18.04:673][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7686.228027, Update Interval: 356.328613
+[2025.10.15-14.24.52:053][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8093.938965
+[2025.10.15-14.24.53:056][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.24.53:056][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8094.606445, Update Interval: 307.123016
+[2025.10.15-14.30.33:079][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8434.970703
+[2025.10.15-14.30.34:746][174]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.30.34:746][174]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8436.304688, Update Interval: 305.738708
+[2025.10.15-14.36.35:463][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8797.346680
+[2025.10.15-14.36.36:463][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.36.36:463][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8798.013672, Update Interval: 343.164764
+[2025.10.15-14.43.01:848][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9183.749023
+[2025.10.15-14.43.03:182][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.43.03:182][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9184.748047, Update Interval: 320.153198
+[2025.10.15-14.49.15:261][734]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9557.157227
+[2025.10.15-14.49.16:594][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.49.16:594][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9558.155273, Update Interval: 335.087738
+[2025.10.15-14.55.45:316][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9947.200195
+[2025.10.15-14.55.46:315][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.55.46:315][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9947.867188, Update Interval: 312.689606
+[2025.10.15-15.01.35:690][955]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10297.561523
+[2025.10.15-15.01.36:691][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-15.01.36:691][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10298.227539, Update Interval: 304.235352
+[2025.10.15-15.07.05:521][238]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.15-15.07.05:531][238]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.15-15.07.05:544][239]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.15-15.07.10:281][709]LogContentBrowser: Attempting asset rename: NewFolder -> SavedData
+[2025.10.15-15.07.10:282][709]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.15-15.07.38:393][587]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10660.277344
+[2025.10.15-15.07.38:585][606]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2025.10.15-15.07.38:594][606]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2025.10.15-15.07.38:641][608]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2025.10.15-15.07.38:778][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-15.07.38:778][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10660.651367, Update Interval: 324.795074
+[2025.10.15-15.07.45:512][303]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_PlayerProfile
+[2025.10.15-15.07.45:764][303]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2025.10.15-15.07.46:540][366]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/SavedData/S_PlayerProfile.S_PlayerProfile
+[2025.10.15-15.07.57:061][529]LogSlate: Took 0.001789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.10.15-15.08.07:561][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.10.15-15.08.07:567][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.08.07:608][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Shooter/BP_PC_Arena] ([2] browsable assets)...
+[2025.10.15-15.08.07:608][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Shooter/BP_PC_Arena]
+[2025.10.15-15.08.07:614][146]LogSavePackage: Moving output files for package: /Game/Framework/Shooter/BP_PC_Arena
+[2025.10.15-15.08.07:615][146]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_PC_Arena6F82E96F4A50236391E0C9AC80DE8A99.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Shooter/BP_PC_Arena.uasset'
+[2025.10.15-15.08.07:616][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SavedData/S_PlayerProfile] ([1] browsable assets)...
+[2025.10.15-15.08.07:617][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/SavedData/S_PlayerProfile]
+[2025.10.15-15.08.07:619][146]LogSavePackage: Moving output files for package: /Game/SavedData/S_PlayerProfile
+[2025.10.15-15.08.07:619][146]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/S_PlayerProfile80B15DC6467078C484430F8A2F2E225A.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/SavedData/S_PlayerProfile.uasset'
+[2025.10.15-15.08.07:631][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.463 ms (total: 1.51 sec)
+[2025.10.15-15.08.07:659][146]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.15-15.08.07:659][146]LogContentValidation: Enabled validators:
+[2025.10.15-15.08.07:659][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.08.07:659][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.08.07:659][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.08.07:659][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.08.07:659][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.08.07:659][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.08.07:659][146]AssetCheck: /Game/Framework/Shooter/BP_PC_Arena Validating asset
+[2025.10.15-15.08.07:659][146]AssetCheck: /Game/SavedData/S_PlayerProfile Validating asset
+[2025.10.15-15.08.07:675][146]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-15.08.21:524][746]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/ABP_PistolAnimLayers.ABP_PistolAnimLayers_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.08.21:524][746]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/ABP_PistolAnimLayers_Feminine.ABP_PistolAnimLayers_Feminine_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.08.21:524][746]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/ABP_RifleAnimLayers.ABP_RifleAnimLayers_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.08.21:524][746]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/ABP_RifleAnimLayers_Feminine.ABP_RifleAnimLayers_Feminine_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.08.21:524][746]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/ABP_UnarmedAnimLayers.ABP_UnarmedAnimLayers_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.08.21:524][746]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/ABP_UnarmedAnimLayers_Feminine.ABP_UnarmedAnimLayers_Feminine_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.08.21:524][746]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/ABP_Mannequin_Base.ABP_Mannequin_Base_C has parent /Script/LyraGame.LyraAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.08.28:292][746]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.15-15.08.28:303][746]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.15-15.08.28:313][746]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.15-15.08.28:329][747]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.15-15.08.41:022][ 14]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SG_PlayerProfile
+[2025.10.15-15.08.41:028][ 14]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.15-15.08.41:833][ 81]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SavedData/BP_SG_PlayerProfile.BP_SG_PlayerProfile
+[2025.10.15-15.08.41:833][ 81]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.15-15.09.47:510][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.15-15.09.47:512][443]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Menus/MainMenu' took 0.050
+[2025.10.15-15.09.47:514][443]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SavedData/BP_SG_PlayerProfile] ([2] browsable assets)...
+[2025.10.15-15.09.47:514][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/SavedData/BP_SG_PlayerProfile]
+[2025.10.15-15.09.47:518][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SavedData/BP_SG_PlayerProfile_Auto4
+[2025.10.15-15.09.47:518][443]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_SG_PlayerProfile_Auto488F036FB4B9D0163B2C0D58B2DAA1B9D.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/Autosaves/Game/SavedData/BP_SG_PlayerProfile_Auto4.uasset'
+[2025.10.15-15.09.47:519][443]LogFileHelpers: Auto-saving content packages took 0.006
+[2025.10.15-15.10.01:775][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.15-15.10.40:846][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.15-15.10.43:818][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.15-15.10.43:824][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.10.43:858][170]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SavedData/BP_SG_PlayerProfile] ([2] browsable assets)...
+[2025.10.15-15.10.43:858][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/SavedData/BP_SG_PlayerProfile]
+[2025.10.15-15.10.43:863][170]LogSavePackage: Moving output files for package: /Game/SavedData/BP_SG_PlayerProfile
+[2025.10.15-15.10.43:863][170]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_SG_PlayerProfile2D42385B4C0B4CD137EC129C24993D4C.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/SavedData/BP_SG_PlayerProfile.uasset'
+[2025.10.15-15.10.43:873][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.524 ms (total: 1.56 sec)
+[2025.10.15-15.10.43:910][170]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.10.43:910][170]LogContentValidation: Enabled validators:
+[2025.10.15-15.10.43:910][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.10.43:911][170]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.10.43:911][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.10.43:911][170]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.10.43:911][170]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.10.43:911][170]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.10.43:911][170]AssetCheck: /Game/SavedData/BP_SG_PlayerProfile Validating asset
+[2025.10.15-15.10.43:926][170]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-15.10.54:591][433]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.10.54:591][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.10.54:672][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.15-15.11.42:601][925]LogDerivedDataCache: C:/Users/arrow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.15-15.12.14:368][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.15-15.12.30:413][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.12.30:446][516]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Menu/BP_GI_ArenaMenu] ([2] browsable assets)...
+[2025.10.15-15.12.30:446][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Menu/BP_GI_ArenaMenu]
+[2025.10.15-15.12.30:453][516]LogSavePackage: Moving output files for package: /Game/Framework/Menu/BP_GI_ArenaMenu
+[2025.10.15-15.12.30:454][516]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_GI_ArenaMenuE8DD04574EA3D53F88A9F393BE31E6C4.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset'
+[2025.10.15-15.12.30:464][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.074 ms (total: 1.61 sec)
+[2025.10.15-15.12.30:499][516]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.12.30:499][516]LogContentValidation: Enabled validators:
+[2025.10.15-15.12.30:499][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.12.30:499][516]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.12.30:499][516]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.12.30:499][516]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.12.30:499][516]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.12.30:499][516]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.12.30:499][516]AssetCheck: /Game/Framework/Menu/BP_GI_ArenaMenu Validating asset
+[2025.10.15-15.12.31:607][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.15-15.12.33:348][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.15-15.13.46:800][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11028.927734
+[2025.10.15-15.13.47:091][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-15.13.47:091][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11029.208984, Update Interval: 347.793823
+[2025.10.15-15.14.26:463][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.15-15.14.26:467][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.14.26:505][831]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Menu/BP_GI_ArenaMenu] ([2] browsable assets)...
+[2025.10.15-15.14.26:505][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Menu/BP_GI_ArenaMenu]
+[2025.10.15-15.14.26:515][831]LogSavePackage: Moving output files for package: /Game/Framework/Menu/BP_GI_ArenaMenu
+[2025.10.15-15.14.26:516][831]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_GI_ArenaMenuD186BB574A7870690BC7708CD03836DC.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset'
+[2025.10.15-15.14.26:527][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.132 ms (total: 1.67 sec)
+[2025.10.15-15.14.26:560][831]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.14.26:560][831]LogContentValidation: Enabled validators:
+[2025.10.15-15.14.26:560][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.14.26:560][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.14.26:560][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.14.26:560][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.14.26:560][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.14.26:560][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.14.26:560][831]AssetCheck: /Game/Framework/Menu/BP_GI_ArenaMenu Validating asset
+[2025.10.15-15.14.27:404][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.15-15.14.48:087][298]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/ABP_PistolAnimLayers.ABP_PistolAnimLayers_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.14.48:087][298]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Pistol/ABP_PistolAnimLayers_Feminine.ABP_PistolAnimLayers_Feminine_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.14.48:087][298]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/ABP_RifleAnimLayers.ABP_RifleAnimLayers_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.14.48:087][298]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Rifle/ABP_RifleAnimLayers_Feminine.ABP_RifleAnimLayers_Feminine_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.14.48:087][298]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/ABP_UnarmedAnimLayers.ABP_UnarmedAnimLayers_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.14.48:087][298]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/ABP_UnarmedAnimLayers_Feminine.ABP_UnarmedAnimLayers_Feminine_C has parent /Game/Characters/Heroes/Mannequin/Animations/LinkedLayers/ABP_ItemAnimLayersBase.ABP_ItemAnimLayersBase_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.14.48:087][298]LogEditorClassViewer: Warning: Class /Game/Characters/Heroes/Mannequin/Animations/ABP_Mannequin_Base.ABP_Mannequin_Base_C has parent /Script/LyraGame.LyraAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.15-15.16.32:530][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.15-15.16.32:535][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.16.32:570][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Menu/BP_GI_ArenaMenu] ([2] browsable assets)...
+[2025.10.15-15.16.32:570][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Menu/BP_GI_ArenaMenu]
+[2025.10.15-15.16.32:583][376]LogSavePackage: Moving output files for package: /Game/Framework/Menu/BP_GI_ArenaMenu
+[2025.10.15-15.16.32:583][376]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_GI_ArenaMenu85C69B904C1C759218C65BB33CCD3B0B.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset'
+[2025.10.15-15.16.32:594][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.367 ms (total: 1.72 sec)
+[2025.10.15-15.16.32:625][376]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.16.32:625][376]LogContentValidation: Enabled validators:
+[2025.10.15-15.16.32:625][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.16.32:625][376]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.16.32:625][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.16.32:625][376]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.16.32:625][376]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.16.32:625][376]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.16.32:625][376]AssetCheck: /Game/Framework/Menu/BP_GI_ArenaMenu Validating asset
+[2025.10.15-15.16.33:276][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.15-15.17.22:942][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.15-15.17.22:946][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.17.22:986][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Menu/BP_GI_ArenaMenu] ([2] browsable assets)...
+[2025.10.15-15.17.22:986][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Menu/BP_GI_ArenaMenu]
+[2025.10.15-15.17.22:997][222]LogSavePackage: Moving output files for package: /Game/Framework/Menu/BP_GI_ArenaMenu
+[2025.10.15-15.17.22:998][222]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_GI_ArenaMenuA859A6634039C8A8EBC69C92676452A0.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset'
+[2025.10.15-15.17.23:009][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.541 ms (total: 1.79 sec)
+[2025.10.15-15.17.23:045][222]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.17.23:045][222]LogContentValidation: Enabled validators:
+[2025.10.15-15.17.23:045][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.17.23:045][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.17.23:045][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.17.23:045][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.17.23:045][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.17.23:045][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.17.23:045][222]AssetCheck: /Game/Framework/Menu/BP_GI_ArenaMenu Validating asset
+[2025.10.15-15.17.27:043][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.15-15.18.03:854][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.15-15.18.03:859][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.18.03:899][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Menu/BP_GI_ArenaMenu] ([2] browsable assets)...
+[2025.10.15-15.18.03:899][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Menu/BP_GI_ArenaMenu]
+[2025.10.15-15.18.03:910][642]LogSavePackage: Moving output files for package: /Game/Framework/Menu/BP_GI_ArenaMenu
+[2025.10.15-15.18.03:911][642]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_GI_ArenaMenu529C786E44029F6E20CC449FA3C9911E.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset'
+[2025.10.15-15.18.03:921][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.483 ms (total: 1.85 sec)
+[2025.10.15-15.18.03:950][642]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.18.03:950][642]LogContentValidation: Enabled validators:
+[2025.10.15-15.18.03:950][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.18.03:950][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.18.03:950][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.18.03:950][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.18.03:950][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.18.03:950][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.18.03:951][642]AssetCheck: /Game/Framework/Menu/BP_GI_ArenaMenu Validating asset
+[2025.10.15-15.18.05:297][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.15-15.19.47:910][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.15-15.19.47:911][525]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Menus/MainMenu' took 0.052
+[2025.10.15-15.19.47:912][525]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_MainMenu] ([2] browsable assets)...
+[2025.10.15-15.19.47:916][525]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_MainMenu.WBP_MainMenu]
+[2025.10.15-15.19.47:916][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_MainMenu]
+[2025.10.15-15.19.47:927][525]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WBP_MainMenu_Auto5
+[2025.10.15-15.19.47:927][525]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/WBP_MainMenu_Auto5D0467BCA4F36FAD7A6999199349E4E35.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/Autosaves/Game/Widgets/WBP_MainMenu_Auto5.uasset'
+[2025.10.15-15.19.47:927][525]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.10.15-15.20.13:307][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11415.611328
+[2025.10.15-15.20.13:642][164]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-15.20.13:642][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11415.934570, Update Interval: 308.912018
+[2025.10.15-15.20.16:431][422]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-15.20.33:254][968]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-15.20.54:518][ 87]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-15.21.31:520][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.31:524][110]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.31:671][112]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.35:133][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.15-15.21.38:101][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:104][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:106][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:109][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:111][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:114][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:116][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:118][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:120][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:124][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:126][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:129][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:132][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:134][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:136][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:138][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:142][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:143][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:146][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:148][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:153][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:219][743]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:227][743]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:292][744]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:358][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:361][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:365][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:368][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:370][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:373][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:375][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:382][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:446][746]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.38:450][746]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.15-15.21.54:960][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.15-15.21.54:964][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.21.55:003][203]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_MainMenu] ([2] browsable assets)...
+[2025.10.15-15.21.55:006][203]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_MainMenu.WBP_MainMenu]
+[2025.10.15-15.21.55:006][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_MainMenu]
+[2025.10.15-15.21.55:015][203]LogSavePackage: Moving output files for package: /Game/Widgets/WBP_MainMenu
+[2025.10.15-15.21.55:016][203]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/WBP_MainMenu6E39EC3E4CE78BDB01B22AA30D3B8640.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Widgets/WBP_MainMenu.uasset'
+[2025.10.15-15.21.55:026][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.811 ms (total: 1.91 sec)
+[2025.10.15-15.21.55:062][203]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.21.55:062][203]LogContentValidation: Enabled validators:
+[2025.10.15-15.21.55:062][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.21.55:062][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.21.55:062][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.21.55:062][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.21.55:062][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.21.55:062][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.21.55:063][203]AssetCheck: /Game/Widgets/WBP_MainMenu Validating asset
+[2025.10.15-15.22.52:404][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.15-15.22.52:408][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.22.52:449][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Menu/BP_GI_ArenaMenu] ([2] browsable assets)...
+[2025.10.15-15.22.52:449][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Menu/BP_GI_ArenaMenu]
+[2025.10.15-15.22.52:461][179]LogSavePackage: Moving output files for package: /Game/Framework/Menu/BP_GI_ArenaMenu
+[2025.10.15-15.22.52:462][179]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_GI_ArenaMenuC2CE7C6A475318D5DF62A4AB6E4C0EA2.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset'
+[2025.10.15-15.22.52:466][179]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_MainMenu] ([2] browsable assets)...
+[2025.10.15-15.22.52:469][179]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_MainMenu.WBP_MainMenu]
+[2025.10.15-15.22.52:469][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_MainMenu]
+[2025.10.15-15.22.52:479][179]LogSavePackage: Moving output files for package: /Game/Widgets/WBP_MainMenu
+[2025.10.15-15.22.52:480][179]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/WBP_MainMenuB67250E84B4B554EC5F135A3CAE62340.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Widgets/WBP_MainMenu.uasset'
+[2025.10.15-15.22.52:490][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.038 ms (total: 1.99 sec)
+[2025.10.15-15.22.52:532][179]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.15-15.22.52:532][179]LogContentValidation: Enabled validators:
+[2025.10.15-15.22.52:532][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.22.52:532][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.22.52:532][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.22.52:532][179]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.22.52:532][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.22.52:532][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.22.52:532][179]AssetCheck: /Game/Framework/Menu/BP_GI_ArenaMenu Validating asset
+[2025.10.15-15.22.52:533][179]AssetCheck: /Game/Widgets/WBP_MainMenu Validating asset
+[2025.10.15-15.23.38:101][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.10.15-15.23.38:106][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.23.38:148][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Menu/BP_GI_ArenaMenu] ([2] browsable assets)...
+[2025.10.15-15.23.38:148][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Menu/BP_GI_ArenaMenu]
+[2025.10.15-15.23.38:164][102]LogSavePackage: Moving output files for package: /Game/Framework/Menu/BP_GI_ArenaMenu
+[2025.10.15-15.23.38:165][102]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_GI_ArenaMenuA4F834404F9438F61B9C6888ABF84284.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset'
+[2025.10.15-15.23.38:177][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.449 ms (total: 2.06 sec)
+[2025.10.15-15.23.38:220][102]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.23.38:220][102]LogContentValidation: Enabled validators:
+[2025.10.15-15.23.38:220][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.23.38:220][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.23.38:220][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.23.38:220][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.23.38:220][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.23.38:220][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.23.38:220][102]AssetCheck: /Game/Framework/Menu/BP_GI_ArenaMenu Validating asset
+[2025.10.15-15.23.52:857][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.15-15.23.52:862][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.23.52:902][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Menu/BP_GI_ArenaMenu] ([2] browsable assets)...
+[2025.10.15-15.23.52:902][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Menu/BP_GI_ArenaMenu]
+[2025.10.15-15.23.52:918][ 43]LogSavePackage: Moving output files for package: /Game/Framework/Menu/BP_GI_ArenaMenu
+[2025.10.15-15.23.52:920][ 43]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_GI_ArenaMenuCD7ADDE747E11256BDC0C3905CB71DDB.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset'
+[2025.10.15-15.23.52:932][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.874 ms (total: 2.13 sec)
+[2025.10.15-15.23.52:975][ 43]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.23.52:975][ 43]LogContentValidation: Enabled validators:
+[2025.10.15-15.23.52:976][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.23.52:976][ 43]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.23.52:976][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.23.52:976][ 43]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.23.52:976][ 43]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.23.52:976][ 43]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.23.52:976][ 43]AssetCheck: /Game/Framework/Menu/BP_GI_ArenaMenu Validating asset
+[2025.10.15-15.25.26:397][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.15-15.25.26:404][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.25.26:448][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/Menu/BP_GI_ArenaMenu] ([2] browsable assets)...
+[2025.10.15-15.25.26:448][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/Menu/BP_GI_ArenaMenu]
+[2025.10.15-15.25.26:468][854]LogSavePackage: Moving output files for package: /Game/Framework/Menu/BP_GI_ArenaMenu
+[2025.10.15-15.25.26:469][854]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/BP_GI_ArenaMenu2A8AD20D4AE41A4358F355A43E30FAEC.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Menu/BP_GI_ArenaMenu.uasset'
+[2025.10.15-15.25.26:481][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.887 ms (total: 2.21 sec)
+[2025.10.15-15.25.26:526][854]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.25.26:526][854]LogContentValidation: Enabled validators:
+[2025.10.15-15.25.26:526][854]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.25.26:526][854]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.25.26:526][854]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.25.26:526][854]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.25.26:526][854]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.25.26:526][854]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.25.26:526][854]AssetCheck: /Game/Framework/Menu/BP_GI_ArenaMenu Validating asset
+[2025.10.15-15.25.37:071][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.15-15.25.56:943][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11759.264648
+[2025.10.15-15.25.57:266][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-15.25.57:266][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11759.578125, Update Interval: 317.933899
+[2025.10.15-15.26.04:336][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.15-15.26.04:341][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.26.04:382][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_MainMenu] ([2] browsable assets)...
+[2025.10.15-15.26.04:386][451]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_MainMenu.WBP_MainMenu]
+[2025.10.15-15.26.04:386][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_MainMenu]
+[2025.10.15-15.26.04:399][451]LogSavePackage: Moving output files for package: /Game/Widgets/WBP_MainMenu
+[2025.10.15-15.26.04:400][451]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/WBP_MainMenu83319986444C9A13737EC7B5135FD66E.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Widgets/WBP_MainMenu.uasset'
+[2025.10.15-15.26.04:412][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.128 ms (total: 2.28 sec)
+[2025.10.15-15.26.04:452][451]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.26.04:452][451]LogContentValidation: Enabled validators:
+[2025.10.15-15.26.04:452][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.26.04:452][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.26.04:452][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.26.04:452][451]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.26.04:452][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.26.04:452][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.26.04:453][451]AssetCheck: /Game/Widgets/WBP_MainMenu Validating asset
+[2025.10.15-15.26.10:507][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.15-15.26.11:423][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.15-15.26.11:442][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.15-15.26.11:442][722]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-15.26.11:446][722]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.15-15.26.11:447][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001261s)
+[2025.10.15-15.26.11:447][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu (0.001309s)
+[2025.10.15-15.26.11:482][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.15-15.26.11:485][722]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.15-15.26.11:487][722]LogPlayLevel: PIE: World Init took: (0.002976s)
+[2025.10.15-15.26.11:489][722]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.15-15.26.11:489][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.15-15.26.11:489][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.15-15.26.11:489][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.15-15.26.11:489][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.15-15.26.11:489][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.15-15.26.11:490][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.15-15.26.11:490][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.15-15.26.11:490][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.15-15.26.11:490][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.15-15.26.11:490][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.15-15.26.11:490][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.15-15.26.11:492][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.15-15.26.11:538][722]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.15-15.26.11:538][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.15-15.26.11:538][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.15-15.26.11:538][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.15-15.26.11:539][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.15-15.26.11:539][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.15-15.26.11:541][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.15-15.26.11:541][722]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.15-15.26.11:541][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.15-15.26.11:541][722]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2025.10.15-15.26.11:541][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.15-15.26.11:571][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-15.26.11:572][722]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.15-15.26.11:572][722]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.16-01.26.11
+[2025.10.15-15.26.11:576][722]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.10.15-15.26.11:576][722]LogWorld: Bringing up level for play took: 0.003948
+[2025.10.15-15.26.11:577][722]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.15-15.26.11:577][722]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.15-15.26.11:578][722]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.10.15-15.26.11:578][722]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.10.15-15.26.11:578][722]LogPushModel: PushModel HandleCreation is now enabled
+[2025.10.15-15.26.11:578][722]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.10.15-15.26.11:579][722]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.10.15-15.26.11:579][722]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2025.10.15-15.26.11:579][722]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.10.15-15.26.11:579][722]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2025.10.15-15.26.11:580][722]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.15-15.26.11:580][722]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.15-15.26.11:583][722]LogWindows: WindowsPlatformFeatures enabled
+[2025.10.15-15.26.11:590][722]PIE: Server logged in
+[2025.10.15-15.26.11:591][722]PIE: Play in editor total start time 0.149 seconds.
+[2025.10.15-15.26.11:646][723]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.15-15.26.17:326][292]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MultiArena"
+[2025.10.15-15.26.17:326][292]LogNet: Browse: /Game/Maps/MultiArena
+[2025.10.15-15.26.17:326][292]LogLoad: LoadMap: /Game/Maps/MultiArena
+[2025.10.15-15.26.17:326][292]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.15-15.26.17:326][292]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2025.10.15-15.26.17:326][292]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 
+[2025.10.15-15.26.17:326][292]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 shut down
+[2025.10.15-15.26.17:327][292]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.26.17:327][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.26.17:400][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.15-15.26.17:401][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.15-15.26.17:405][292]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-15.26.17:414][292]LogAudio: Display: Audio Device (ID: 6) registered with world 'MultiArena'.
+[2025.10.15-15.26.17:414][292]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.10.15-15.26.17:415][292]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2025.10.15-15.26.17:416][292]LogLoad: Game class is 'BP_GM_Shooter_C'
+[2025.10.15-15.26.17:417][292]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MultiArena.MultiArena up for play (max tick rate 0) at 2025.10.16-01.26.17
+[2025.10.15-15.26.17:417][292]LogWorld: Bringing up level for play took: 0.001434
+[2025.10.15-15.26.17:418][292]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.15-15.26.17:421][292]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.15-15.26.17:421][292]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.15-15.26.17:421][292]LogLoad: Took 0.096328 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.10.15-15.26.17:423][292]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.10.15-15.26.17:437][293]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.15-15.26.24:196][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-15.26.24:197][861]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MultiArena
+[2025.10.15-15.26.24:197][861]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.15-15.26.24:205][861]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.26.24:206][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.26.24:207][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.15-15.26.24:212][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.26.24:248][861]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.15-15.26.24:249][861]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.15-15.26.24:253][861]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.15-15.26.24:264][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.15-15.26.24:319][862]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.10.15-15.26.25:399][991]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.15-15.26.25:418][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.15-15.26.25:418][991]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-15.26.25:418][991]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.15-15.26.25:419][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001129s)
+[2025.10.15-15.26.25:419][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu (0.001163s)
+[2025.10.15-15.26.25:453][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.15-15.26.25:454][991]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.15-15.26.25:456][991]LogPlayLevel: PIE: World Init took: (0.001711s)
+[2025.10.15-15.26.25:456][991]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.15-15.26.25:456][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.15-15.26.25:456][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.15-15.26.25:456][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.15-15.26.25:456][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.15-15.26.25:456][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.15-15.26.25:456][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.15-15.26.25:456][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.15-15.26.25:456][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.15-15.26.25:456][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.15-15.26.25:456][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.15-15.26.25:456][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.15-15.26.25:459][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.15-15.26.25:491][991]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.15-15.26.25:491][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.15-15.26.25:491][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.15-15.26.25:491][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.15-15.26.25:491][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.15-15.26.25:492][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.15-15.26.25:494][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.15-15.26.25:494][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.15-15.26.25:494][991]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.15-15.26.25:494][991]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2025.10.15-15.26.25:495][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.15-15.26.25:539][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-15.26.25:539][991]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.15-15.26.25:539][991]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.16-01.26.25
+[2025.10.15-15.26.25:542][991]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.10.15-15.26.25:542][991]LogWorld: Bringing up level for play took: 0.003394
+[2025.10.15-15.26.25:543][991]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.15-15.26.25:543][991]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.15-15.26.25:544][991]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.10.15-15.26.25:544][991]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.10.15-15.26.25:544][991]LogPushModel: PushModel HandleCreation is now enabled
+[2025.10.15-15.26.25:544][991]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.10.15-15.26.25:545][991]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.10.15-15.26.25:545][991]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2025.10.15-15.26.25:545][991]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.10.15-15.26.25:545][991]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 IpNetDriver listening on port 17777
+[2025.10.15-15.26.25:547][991]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.15-15.26.25:547][991]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.15-15.26.25:550][991]PIE: Server logged in
+[2025.10.15-15.26.25:551][991]PIE: Play in editor total start time 0.134 seconds.
+[2025.10.15-15.26.25:608][992]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.15-15.26.26:966][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-15.26.26:966][108]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.15-15.26.26:966][108]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.15-15.26.26:975][108]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.26.26:975][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.26.26:976][108]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2025.10.15-15.26.26:976][108]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 
+[2025.10.15-15.26.26:976][108]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 shut down
+[2025.10.15-15.26.26:976][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.15-15.26.26:981][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.26.27:014][108]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.15-15.26.27:014][108]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.10.15-15.26.27:016][108]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.10.15-15.26.27:024][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.15-15.26.27:052][109]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.10.15-15.26.28:361][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
