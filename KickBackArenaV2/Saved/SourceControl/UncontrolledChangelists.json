@@ -30,6 +30,10 @@
 				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Widgets/WBP_LobbyMenu.uasset",
 				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Widgets/WBP_InGameHUD.uasset",
 				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Widgets/WBP_PauseMenu.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Shooter/BP_PS_Shooter.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Shooter/E_GM_Arena.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Shooter/S_GM_Options.uasset",
+				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Framework/Shooter/GM_Options_DataTable.uasset",
 				"C:/Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Characters/BP_Quinn.uasset"
 			]
 		}
