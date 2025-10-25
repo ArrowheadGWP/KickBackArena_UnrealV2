@@ -4467,3 +4467,970 @@ FPackageName: Skipped package /Game/PhysicsMaterials/PM_Character has a valid, m
 [2025.10.25-06.28.15:597][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.25-06.28.15:597][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.25-06.28.15:597][ 59]AssetCheck: /Game/Characters/BP_Hero_Quinn Validating asset
+[2025.10.25-06.29.11:456][456]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Oculus Virtual Audio Device), InstanceID=1
+[2025.10.25-06.29.11:456][456]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{a6d79c2c-8548-4951-a67d-05841c916ee0}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.25-06.29.11:477][456]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{a6d79c2c-8548-4951-a67d-05841c916ee0}]
+[2025.10.25-06.29.11:477][456]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.10.25-06.29.12:362][458]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.10.25-06.29.14:836][464]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a6d79c2c-8548-4951-a67d-05841c916ee0}, Name=Headphones (Oculus Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=2168.88
+[2025.10.25-06.29.14:836][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.10.25-06.29.14:836][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.25-06.29.14:839][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.25-06.34.06:981][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10861.180664
+[2025.10.25-06.34.08:314][345]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-06.34.08:314][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10862.179688, Update Interval: 322.929169
+[2025.10.25-06.34.45:380][457]LogDerivedDataCache: C:/Users/arrow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.25-06.40.13:414][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11227.625977
+[2025.10.25-06.40.14:413][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-06.40.14:413][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11228.291016, Update Interval: 318.087708
+[2025.10.25-06.46.12:172][516]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11586.378906
+[2025.10.25-06.46.13:173][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-06.46.13:173][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11587.048828, Update Interval: 335.659058
+[2025.10.25-06.52.29:253][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11963.447266
+[2025.10.25-06.52.30:252][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-06.52.30:252][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11964.115234, Update Interval: 359.051483
+[2025.10.25-06.59.25:359][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12379.562500
+[2025.10.25-06.59.26:359][898]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-06.59.26:359][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12380.229492, Update Interval: 331.090424
+[2025.10.25-07.05.40:116][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12754.334961
+[2025.10.25-07.05.41:115][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-07.05.41:115][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12755.000000, Update Interval: 341.831726
+[2025.10.25-07.12.04:538][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13138.759766
+[2025.10.25-07.12.05:538][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-07.12.05:538][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13139.426758, Update Interval: 357.925354
+[2025.10.25-07.18.40:972][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13535.189453
+[2025.10.25-07.18.42:303][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-07.18.42:303][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13536.188477, Update Interval: 300.034790
+[2025.10.25-07.24.30:717][410]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13884.928711
+[2025.10.25-07.24.31:716][413]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-07.24.31:716][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13885.595703, Update Interval: 316.238281
+[2025.10.25-07.30.19:131][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14233.338867
+[2025.10.25-07.30.20:129][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-07.30.20:129][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14234.004883, Update Interval: 333.086334
+[2025.10.25-07.34.45:377][254]LogDerivedDataCache: C:/Users/arrow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.25-07.36.34:880][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14609.101562
+[2025.10.25-07.36.35:879][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-07.36.35:879][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14609.768555, Update Interval: 309.406403
+[2025.10.25-07.42.17:977][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14952.199219
+[2025.10.25-07.42.18:976][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-07.42.18:976][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14952.865234, Update Interval: 308.512817
+[2025.10.25-07.47.59:064][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15293.278320
+[2025.10.25-07.48.00:063][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-07.48.00:063][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15293.944336, Update Interval: 319.732056
+[2025.10.25-07.54.15:488][763]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15669.708008
+[2025.10.25-07.54.16:486][766]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-07.54.16:486][766]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15670.375000, Update Interval: 317.653748
+[2025.10.25-08.00.30:903][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16045.119141
+[2025.10.25-08.00.31:904][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.00.31:904][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16045.784180, Update Interval: 304.663849
+[2025.10.25-08.06.13:980][918]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16388.187500
+[2025.10.25-08.06.14:978][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.06.14:978][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16388.851562, Update Interval: 356.605133
+[2025.10.25-08.12.53:070][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16787.251953
+[2025.10.25-08.12.54:071][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.12.54:071][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16787.919922, Update Interval: 340.482178
+[2025.10.25-08.19.26:827][296]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17181.009766
+[2025.10.25-08.19.27:826][299]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.19.27:826][299]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17181.677734, Update Interval: 314.341248
+[2025.10.25-08.25.17:914][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17532.109375
+[2025.10.25-08.25.18:914][352]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.25.18:914][352]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17532.779297, Update Interval: 350.302429
+[2025.10.25-08.31.41:329][499]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17915.515625
+[2025.10.25-08.31.42:329][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.31.42:329][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17916.183594, Update Interval: 359.859009
+[2025.10.25-08.34.45:378][ 52]LogDerivedDataCache: C:/Users/arrow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.25-08.38.38:094][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18332.283203
+[2025.10.25-08.38.39:094][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.38.39:094][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18332.949219, Update Interval: 303.314301
+[2025.10.25-08.44.12:834][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18666.994141
+[2025.10.25-08.44.13:834][756]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.44.13:834][756]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18667.660156, Update Interval: 350.196228
+[2025.10.25-08.51.02:603][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19076.748047
+[2025.10.25-08.51.03:606][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.51.03:606][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19077.417969, Update Interval: 302.085632
+[2025.10.25-08.56.39:360][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19413.505859
+[2025.10.25-08.56.40:363][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-08.56.40:363][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19414.175781, Update Interval: 331.249725
+[2025.10.25-09.03.07:801][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19801.947266
+[2025.10.25-09.03.08:800][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-09.03.08:800][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19802.611328, Update Interval: 304.835968
+[2025.10.25-09.09.06:223][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20160.392578
+[2025.10.25-09.09.07:892][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-09.09.07:892][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20161.726562, Update Interval: 333.236481
+[2025.10.25-09.15.35:659][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20549.802734
+[2025.10.25-09.15.36:661][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-09.15.36:661][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20550.470703, Update Interval: 339.546509
+[2025.10.25-09.22.01:437][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20935.576172
+[2025.10.25-09.22.02:437][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-09.22.02:437][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20936.242188, Update Interval: 332.657867
+[2025.10.25-09.28.12:842][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21306.996094
+[2025.10.25-09.28.13:842][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-09.28.13:842][674]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21307.662109, Update Interval: 356.782745
+[2025.10.25-09.34.45:379][849]LogDerivedDataCache: C:/Users/arrow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.25-09.34.46:588][852]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21700.771484
+[2025.10.25-09.34.47:590][855]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-09.34.47:590][855]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21701.439453, Update Interval: 322.692963
+[2025.10.25-09.40.50:667][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22064.910156
+[2025.10.25-09.40.51:666][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-09.40.51:666][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22065.576172, Update Interval: 338.092590
+[2025.10.25-09.47.13:428][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22447.646484
+[2025.10.25-09.47.14:760][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-09.47.14:760][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22448.646484, Update Interval: 343.845947
+[2025.10.25-09.50.25:058][667]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (2- JBL Quantum910), InstanceID=1
+[2025.10.25-09.50.25:058][667]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{fb1cc194-de2c-4362-b521-6147ceee7011}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.25-09.50.25:146][667]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{fb1cc194-de2c-4362-b521-6147ceee7011}]
+[2025.10.25-09.50.25:148][667]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.10.25-09.50.25:236][668]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.10.25-09.50.26:149][670]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{fb1cc194-de2c-4362-b521-6147ceee7011}, Name=Headphones (2- JBL Quantum910)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=706.94
+[2025.10.25-09.50.26:149][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.10.25-09.50.26:149][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.25-09.50.26:151][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.25-09.53.49:519][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22843.775391
+[2025.10.25-09.53.50:518][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-09.53.50:518][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22844.441406, Update Interval: 346.883759
+[2025.10.25-10.00.17:568][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23231.863281
+[2025.10.25-10.00.18:568][447]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.00.18:569][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23232.529297, Update Interval: 356.740631
+[2025.10.25-10.07.12:624][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23646.917969
+[2025.10.25-10.07.13:625][692]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.07.13:625][692]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23647.583984, Update Interval: 358.617523
+[2025.10.25-10.14.07:014][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24061.318359
+[2025.10.25-10.14.08:016][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.14.08:016][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24061.986328, Update Interval: 348.952911
+[2025.10.25-10.20.33:072][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24447.373047
+[2025.10.25-10.20.34:072][ 93]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.20.34:072][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24448.037109, Update Interval: 337.226471
+[2025.10.25-10.26.58:460][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24832.767578
+[2025.10.25-10.26.59:460][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.26.59:460][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24833.435547, Update Interval: 317.725159
+[2025.10.25-10.33.10:180][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25204.478516
+[2025.10.25-10.33.11:180][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.33.11:180][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25205.144531, Update Interval: 334.609833
+[2025.10.25-10.34.45:379][647]LogDerivedDataCache: C:/Users/arrow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.25-10.39.43:232][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25597.560547
+[2025.10.25-10.39.44:234][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.39.44:234][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25598.226562, Update Interval: 340.471191
+[2025.10.25-10.46.18:950][727]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25993.242188
+[2025.10.25-10.46.19:950][730]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.46.19:950][730]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25993.908203, Update Interval: 300.102539
+[2025.10.25-10.52.04:997][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26339.294922
+[2025.10.25-10.52.06:329][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.52.06:329][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26340.294922, Update Interval: 314.908905
+[2025.10.25-10.58.00:375][831]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26694.662109
+[2025.10.25-10.58.01:376][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.58.01:377][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26695.330078, Update Interval: 336.765045
+[2025.10.25-11.04.17:424][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27071.697266
+[2025.10.25-11.04.18:759][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.04.18:759][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27072.697266, Update Interval: 300.737946
+[2025.10.25-11.09.57:806][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27412.087891
+[2025.10.25-11.09.58:806][986]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.09.58:806][986]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27412.755859, Update Interval: 311.384003
+[2025.10.25-11.16.04:864][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27779.146484
+[2025.10.25-11.16.05:866][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.16.05:867][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27779.816406, Update Interval: 324.699860
+[2025.10.25-11.22.11:581][184]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28145.847656
+[2025.10.25-11.22.12:586][187]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.22.12:586][187]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28146.515625, Update Interval: 335.087738
+[2025.10.25-11.28.42:633][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28536.904297
+[2025.10.25-11.28.43:636][360]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.28.43:636][360]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28537.572266, Update Interval: 340.917999
+[2025.10.25-11.34.45:380][446]LogDerivedDataCache: C:/Users/arrow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.25-11.34.56:011][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28910.328125
+[2025.10.25-11.34.57:346][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.34.57:346][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28911.332031, Update Interval: 301.369659
+[2025.10.25-11.40.43:718][520]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29258.025391
+[2025.10.25-11.40.45:052][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.40.45:052][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29259.025391, Update Interval: 348.387085
+[2025.10.25-11.42.33:499][406]LogAutomationController: Ignoring very large delta of 3.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.25-11.44.37:569][155]LogUObjectHash: Compacting FUObjectHashTables data took  31.69ms
+[2025.10.25-11.44.37:579][155]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Menus/MainMenu' took 0.250
+[2025.10.25-11.44.37:588][155]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_InGameHUD] ([2] browsable assets)...
+[2025.10.25-11.44.37:672][155]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_InGameHUD.WBP_InGameHUD]
+[2025.10.25-11.44.37:672][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_InGameHUD]
+[2025.10.25-11.44.37:913][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WBP_InGameHUD_Auto1
+[2025.10.25-11.44.37:914][155]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/WBP_InGameHUD_Auto1736AF196492ED57968E18FA69360982B.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/Autosaves/Game/Widgets/WBP_InGameHUD_Auto1.uasset'
+[2025.10.25-11.44.37:921][155]LogFileHelpers: Auto-saving content packages took 0.335
+[2025.10.25-11.45.29:010][656]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.25-11.47.24:475][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29658.613281
+[2025.10.25-11.47.24:940][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.47.24:940][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29659.064453, Update Interval: 358.511292
+[2025.10.25-11.49.31:609][276]LogUObjectHash: Compacting FUObjectHashTables data took  20.51ms
+[2025.10.25-11.49.34:166][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-11.49.34:203][543]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2025.10.25-11.49.34:214][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-11.49.34:214][543]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-11.49.34:222][543]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-11.49.34:224][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001644s)
+[2025.10.25-11.49.34:224][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu (0.001765s)
+[2025.10.25-11.49.34:289][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.10.25-11.49.34:299][543]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-11.49.34:333][543]LogPlayLevel: PIE: World Init took: (0.033521s)
+[2025.10.25-11.49.34:334][543]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.10.25-11.49.34:334][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-11.49.34:334][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-11.49.34:334][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-11.49.34:334][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-11.49.34:334][543]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-11.49.34:334][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-11.49.34:334][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-11.49.34:334][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-11.49.34:336][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-11.49.34:336][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-11.49.34:336][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-11.49.34:345][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-11.49.34:393][543]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-11.49.34:394][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-11.49.34:394][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-11.49.34:394][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-11.49.34:395][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.10.25-11.49.34:395][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.10.25-11.49.34:397][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.10.25-11.49.34:398][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.10.25-11.49.34:398][543]LogInit: FAudioDevice initialized with ID 22.
+[2025.10.25-11.49.34:398][543]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenu'.
+[2025.10.25-11.49.34:399][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.10.25-11.49.34:421][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.49.34:423][543]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-11.49.34:424][543]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-21.49.34
+[2025.10.25-11.49.34:424][543]LogWorld: Bringing up level for play took: 0.002221
+[2025.10.25-11.49.34:434][543]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.10.25-11.49.34:434][543]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-11.49.34:434][543]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-11.49.34:437][543]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-11.49.34:437][543]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-11.49.34:580][543]PIE: Server logged in
+[2025.10.25-11.49.34:581][543]PIE: Play in editor total start time 0.377 seconds.
+[2025.10.25-11.49.34:582][543]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-11.49.34:583][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001112s)
+[2025.10.25-11.49.34:583][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu (0.001168s)
+[2025.10.25-11.49.34:612][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.25-11.49.34:614][543]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-11.49.34:616][543]LogPlayLevel: PIE: World Init took: (0.002410s)
+[2025.10.25-11.49.34:618][543]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.10.25-11.49.34:618][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-11.49.34:618][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-11.49.34:618][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-11.49.34:618][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-11.49.34:618][543]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-11.49.34:618][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-11.49.34:618][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-11.49.34:618][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-11.49.34:618][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-11.49.34:618][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-11.49.34:618][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-11.49.34:625][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-11.49.34:646][543]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-11.49.34:647][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-11.49.34:647][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-11.49.34:647][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-11.49.34:647][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.10.25-11.49.34:648][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.10.25-11.49.34:651][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.10.25-11.49.34:651][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.10.25-11.49.34:651][543]LogInit: FAudioDevice initialized with ID 23.
+[2025.10.25-11.49.34:651][543]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenu'.
+[2025.10.25-11.49.34:651][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.25-11.49.34:690][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.49.34:690][543]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-11.49.34:691][543]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-21.49.34
+[2025.10.25-11.49.34:691][543]LogWorld: Bringing up level for play took: 0.000701
+[2025.10.25-11.49.34:712][543]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.10.25-11.49.34:712][543]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-11.49.34:713][543]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-11.49.34:714][543]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-11.49.34:714][543]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-11.49.34:717][543]PIE: Server logged in
+[2025.10.25-11.49.34:717][543]PIE: Play in editor total start time 0.513 seconds.
+[2025.10.25-11.49.34:807][543]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-11.49.35:025][544]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-11.49.35:769][545]LogPSOHitching: Encountered 200 PSO creation hitches so far (71 graphics, 129 compute). 0 of them were precached.
+[2025.10.25-11.49.38:794][546]LogAutomationController: Ignoring very large delta of 3.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.25-11.49.40:225][649]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MultiArena"
+[2025.10.25-11.49.40:225][649]LogNet: Browse: /Game/Maps/MultiArena
+[2025.10.25-11.49.40:225][649]LogLoad: LoadMap: /Game/Maps/MultiArena
+[2025.10.25-11.49.40:225][649]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-11.49.40:231][649]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-11.49.40:231][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.49.40:266][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-11.49.40:281][649]LogUObjectHash: Compacting FUObjectHashTables data took  11.54ms
+[2025.10.25-11.49.40:283][649]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-11.49.40:289][649]LogAudio: Display: Audio Device (ID: 23) registered with world 'MultiArena'.
+[2025.10.25-11.49.40:289][649]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.10.25-11.49.40:291][649]LogPlayLevel: PIE: World Init took: (0.002529s)
+[2025.10.25-11.49.40:291][649]LogLoad: Game class is 'BP_GM_Shooter_C'
+[2025.10.25-11.49.40:293][649]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MultiArena.MultiArena up for play (max tick rate 0) at 2025.10.25-21.49.40
+[2025.10.25-11.49.40:293][649]LogWorld: Bringing up level for play took: 0.001412
+[2025.10.25-11.49.40:294][649]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-11.49.40:297][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.49.40:297][649]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.25-11.49.40:297][649]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.25-11.49.40:297][649]LogLoad: Took 0.071836 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.10.25-11.49.40:297][649]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.10.25-11.49.40:369][650]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-11.49.40:489][650]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.10.25-11.49.40:668][650]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.10.25-11.49.40:668][650]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.10.25-11.49.40:668][650]LogPSOHitching: Encountered 250 PSO creation hitches so far (78 graphics, 172 compute). 0 of them were precached.
+[2025.10.25-11.49.41:261][651]LogPSOHitching: Encountered 300 PSO creation hitches so far (94 graphics, 206 compute). 0 of them were precached.
+[2025.10.25-11.49.55:510][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.49.55:510][479]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MultiArena
+[2025.10.25-11.49.55:513][479]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-11.49.55:524][479]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-11.49.55:524][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.49.55:525][479]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-11.49.55:526][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.49.55:526][479]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-11.49.55:534][479]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-11.49.55:534][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.49.55:535][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-11.49.55:540][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.49.55:593][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-11.49.55:594][479]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.25-11.49.55:594][479]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.10.25-11.49.55:596][479]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.10.25-11.49.55:602][479]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.10.25-11.49.55:602][479]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.10.25-11.49.55:606][479]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.10.25-11.49.55:615][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.10.25-11.49.55:660][480]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.10.25-11.49.55:665][480]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.10.25-11.50.07:279][637]LogAutomationController: Ignoring very large delta of 10.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.25-11.54.14:988][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30069.042969
+[2025.10.25-11.54.16:322][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.54.16:322][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30070.042969, Update Interval: 346.499207
+[2025.10.25-11.54.59:661][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.25-11.54.59:664][514]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Menus/MainMenu' took 0.244
+[2025.10.25-11.54.59:667][514]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_InGameHUD] ([2] browsable assets)...
+[2025.10.25-11.54.59:672][514]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_InGameHUD.WBP_InGameHUD]
+[2025.10.25-11.54.59:672][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_InGameHUD]
+[2025.10.25-11.54.59:722][514]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WBP_InGameHUD_Auto2
+[2025.10.25-11.54.59:724][514]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/WBP_InGameHUD_Auto270CAD06A460B1A45D27D8E9CEC206B56.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/Autosaves/Game/Widgets/WBP_InGameHUD_Auto2.uasset'
+[2025.10.25-11.54.59:730][514]LogFileHelpers: Auto-saving content packages took 0.064
+[2025.10.25-12.00.51:819][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30465.873047
+[2025.10.25-12.00.52:818][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.00.52:818][574]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30466.537109, Update Interval: 332.234863
+[2025.10.25-12.07.06:542][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30840.630859
+[2025.10.25-12.07.07:541][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.07.07:541][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30841.296875, Update Interval: 346.306946
+[2025.10.25-12.13.27:588][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31221.695312
+[2025.10.25-12.13.28:587][841]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.13.28:587][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31222.365234, Update Interval: 350.848114
+[2025.10.25-12.17.21:216][722]LogAutomationController: Ignoring very large delta of 2.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.25-12.17.43:044][427]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-12.17.43:065][427]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2025.10.25-12.17.43:065][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-12.17.43:065][427]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-12.17.43:073][427]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-12.17.43:074][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001327s)
+[2025.10.25-12.17.43:074][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu (0.001405s)
+[2025.10.25-12.17.43:132][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.25-12.17.43:134][427]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-12.17.43:140][427]LogPlayLevel: PIE: World Init took: (0.006807s)
+[2025.10.25-12.17.43:141][427]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.10.25-12.17.43:141][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.17.43:141][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.17.43:141][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.17.43:141][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.17.43:141][427]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.17.43:141][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.17.43:141][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.17.43:141][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.17.43:141][427]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.17.43:141][427]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.17.43:141][427]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.17.43:144][427]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.17.43:168][427]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-12.17.43:169][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.17.43:169][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.17.43:169][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.17.43:170][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.10.25-12.17.43:170][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.10.25-12.17.43:172][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.10.25-12.17.43:172][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.10.25-12.17.43:172][427]LogInit: FAudioDevice initialized with ID 24.
+[2025.10.25-12.17.43:172][427]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenu'.
+[2025.10.25-12.17.43:172][427]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.25-12.17.43:209][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.17.43:209][427]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-12.17.43:209][427]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-22.17.43
+[2025.10.25-12.17.43:210][427]LogWorld: Bringing up level for play took: 0.000555
+[2025.10.25-12.17.43:214][427]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.10.25-12.17.43:214][427]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-12.17.43:214][427]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.17.43:215][427]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-12.17.43:215][427]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-12.17.43:220][427]PIE: Server logged in
+[2025.10.25-12.17.43:224][427]PIE: Play in editor total start time 0.159 seconds.
+[2025.10.25-12.17.43:224][427]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-12.17.43:225][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001283s)
+[2025.10.25-12.17.43:226][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu (0.001320s)
+[2025.10.25-12.17.43:254][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.25-12.17.43:256][427]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-12.17.43:258][427]LogPlayLevel: PIE: World Init took: (0.002028s)
+[2025.10.25-12.17.43:259][427]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.10.25-12.17.43:259][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.17.43:259][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.17.43:259][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.17.43:259][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.17.43:259][427]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.17.43:259][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.17.43:259][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.17.43:259][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.17.43:259][427]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.17.43:259][427]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.17.43:259][427]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.17.43:271][427]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.17.43:290][427]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-12.17.43:301][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.17.43:301][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.17.43:301][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.17.43:302][427]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.10.25-12.17.43:302][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.10.25-12.17.43:310][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.10.25-12.17.43:310][427]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.10.25-12.17.43:310][427]LogInit: FAudioDevice initialized with ID 25.
+[2025.10.25-12.17.43:310][427]LogAudio: Display: Audio Device (ID: 25) registered with world 'MainMenu'.
+[2025.10.25-12.17.43:310][427]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.10.25-12.17.43:362][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.17.43:362][427]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-12.17.43:363][427]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-22.17.43
+[2025.10.25-12.17.43:363][427]LogWorld: Bringing up level for play took: 0.000627
+[2025.10.25-12.17.43:377][427]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.10.25-12.17.43:377][427]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-12.17.43:377][427]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.17.43:378][427]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-12.17.43:378][427]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-12.17.43:382][427]PIE: Server logged in
+[2025.10.25-12.17.43:384][427]PIE: Play in editor total start time 0.32 seconds.
+[2025.10.25-12.17.43:483][427]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.17.43:675][428]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.17.44:939][487]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MultiArena"
+[2025.10.25-12.17.44:939][487]LogNet: Browse: /Game/Maps/MultiArena
+[2025.10.25-12.17.44:939][487]LogLoad: LoadMap: /Game/Maps/MultiArena
+[2025.10.25-12.17.44:939][487]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-12.17.44:940][487]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.17.44:940][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.17.44:972][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-12.17.44:975][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.25-12.17.44:977][487]LogStreaming: Display: FlushAsyncLoading(606): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-12.17.44:981][487]LogAudio: Display: Audio Device (ID: 25) registered with world 'MultiArena'.
+[2025.10.25-12.17.44:981][487]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.10.25-12.17.44:983][487]LogPlayLevel: PIE: World Init took: (0.001733s)
+[2025.10.25-12.17.44:983][487]LogLoad: Game class is 'BP_GM_Shooter_C'
+[2025.10.25-12.17.44:984][487]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MultiArena.MultiArena up for play (max tick rate 0) at 2025.10.25-22.17.44
+[2025.10.25-12.17.44:984][487]LogWorld: Bringing up level for play took: 0.001192
+[2025.10.25-12.17.44:984][487]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.17.44:987][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.17.44:988][487]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.25-12.17.44:988][487]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.25-12.17.44:988][487]LogLoad: Took 0.049025 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.10.25-12.17.44:988][487]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.10.25-12.17.45:034][488]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.17.55:838][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.17.55:838][992]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MultiArena
+[2025.10.25-12.17.55:838][992]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-12.17.55:848][992]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.17.55:848][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.17.55:849][992]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-12.17.55:850][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.17.55:850][992]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-12.17.55:859][992]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.17.55:859][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.17.55:859][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-12.17.55:863][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.17.55:908][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-12.17.55:910][992]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.10.25-12.17.55:910][992]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.10.25-12.17.55:914][992]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.10.25-12.17.55:921][992]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.25-12.17.55:921][992]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.10.25-12.17.55:926][992]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.10.25-12.17.55:933][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.10.25-12.17.55:977][993]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.10.25-12.17.55:979][993]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.10.25-12.18.54:582][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.25-12.18.55:525][523]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-12.18.55:544][523]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2025.10.25-12.18.55:556][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-12.18.55:558][523]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-12.18.55:558][523]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-12.18.55:559][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001026s)
+[2025.10.25-12.18.55:559][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu (0.001059s)
+[2025.10.25-12.18.55:591][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.25-12.18.55:593][523]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-12.18.55:594][523]LogPlayLevel: PIE: World Init took: (0.001623s)
+[2025.10.25-12.18.55:596][523]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.10.25-12.18.55:596][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.18.55:596][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.18.55:596][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.18.55:596][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.18.55:596][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.18.55:596][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.18.55:596][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.18.55:596][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.18.55:596][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.18.55:596][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.18.55:596][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.18.55:598][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.18.55:620][523]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-12.18.55:620][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.18.55:620][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.18.55:620][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.18.55:620][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.10.25-12.18.55:620][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.10.25-12.18.55:623][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.10.25-12.18.55:623][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.10.25-12.18.55:623][523]LogInit: FAudioDevice initialized with ID 26.
+[2025.10.25-12.18.55:623][523]LogAudio: Display: Audio Device (ID: 26) registered with world 'MainMenu'.
+[2025.10.25-12.18.55:623][523]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.10.25-12.18.55:653][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.18.55:653][523]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-12.18.55:654][523]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-22.18.55
+[2025.10.25-12.18.55:654][523]LogWorld: Bringing up level for play took: 0.000763
+[2025.10.25-12.18.55:658][523]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.10.25-12.18.55:658][523]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-12.18.55:658][523]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.18.55:659][523]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-12.18.55:659][523]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-12.18.55:679][523]PIE: Server logged in
+[2025.10.25-12.18.55:681][523]PIE: Play in editor total start time 0.137 seconds.
+[2025.10.25-12.18.55:681][523]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-12.18.55:682][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001018s)
+[2025.10.25-12.18.55:682][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu (0.001048s)
+[2025.10.25-12.18.55:723][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.25-12.18.55:724][523]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-12.18.55:727][523]LogPlayLevel: PIE: World Init took: (0.001634s)
+[2025.10.25-12.18.55:727][523]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.10.25-12.18.55:727][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.18.55:727][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.18.55:727][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.18.55:727][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.18.55:727][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.18.55:727][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.18.55:727][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.18.55:727][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.18.55:727][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.18.55:727][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.18.55:727][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.18.55:742][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.18.55:763][523]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-12.18.55:763][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.18.55:763][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.18.55:763][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.18.55:764][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.10.25-12.18.55:764][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.10.25-12.18.55:766][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.10.25-12.18.55:766][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.10.25-12.18.55:778][523]LogInit: FAudioDevice initialized with ID 27.
+[2025.10.25-12.18.55:778][523]LogAudio: Display: Audio Device (ID: 27) registered with world 'MainMenu'.
+[2025.10.25-12.18.55:778][523]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.10.25-12.18.55:812][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.18.55:812][523]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-12.18.55:812][523]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-22.18.55
+[2025.10.25-12.18.55:812][523]LogWorld: Bringing up level for play took: 0.000458
+[2025.10.25-12.18.55:816][523]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.10.25-12.18.55:816][523]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-12.18.55:816][523]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.18.55:817][523]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-12.18.55:817][523]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-12.18.55:822][523]PIE: Server logged in
+[2025.10.25-12.18.55:824][523]PIE: Play in editor total start time 0.28 seconds.
+[2025.10.25-12.18.55:908][523]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.18.56:076][524]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.18.57:772][604]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MultiArena"
+[2025.10.25-12.18.57:772][604]LogNet: Browse: /Game/Maps/MultiArena
+[2025.10.25-12.18.57:772][604]LogLoad: LoadMap: /Game/Maps/MultiArena
+[2025.10.25-12.18.57:772][604]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-12.18.57:773][604]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.18.57:773][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.18.57:805][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-12.18.57:807][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.25-12.18.57:809][604]LogStreaming: Display: FlushAsyncLoading(610): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-12.18.57:813][604]LogAudio: Display: Audio Device (ID: 27) registered with world 'MultiArena'.
+[2025.10.25-12.18.57:813][604]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.10.25-12.18.57:815][604]LogPlayLevel: PIE: World Init took: (0.001877s)
+[2025.10.25-12.18.57:816][604]LogLoad: Game class is 'BP_GM_Shooter_C'
+[2025.10.25-12.18.57:816][604]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MultiArena.MultiArena up for play (max tick rate 0) at 2025.10.25-22.18.57
+[2025.10.25-12.18.57:816][604]LogWorld: Bringing up level for play took: 0.001156
+[2025.10.25-12.18.57:817][604]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.18.57:820][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.18.57:820][604]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.25-12.18.57:820][604]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.25-12.18.57:820][604]LogLoad: Took 0.049110 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.10.25-12.18.57:820][604]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.10.25-12.18.57:894][605]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.19.10:318][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.19.10:318][193]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MultiArena
+[2025.10.25-12.19.10:318][193]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-12.19.10:326][193]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.19.10:326][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.19.10:327][193]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-12.19.10:328][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.19.10:328][193]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-12.19.10:336][193]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.19.10:336][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.19.10:337][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-12.19.10:344][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.19.10:377][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-12.19.10:378][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.10.25-12.19.10:378][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2025.10.25-12.19.10:384][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2025.10.25-12.19.10:391][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.10.25-12.19.10:391][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2025.10.25-12.19.10:393][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2025.10.25-12.19.10:410][193]LogUObjectHash: Compacting FUObjectHashTables data took  10.19ms
+[2025.10.25-12.19.10:453][194]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.10.25-12.19.10:456][194]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.10.25-12.19.36:255][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.25-12.19.36:256][415]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Menus/MainMenu' took 0.033
+[2025.10.25-12.19.36:256][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_InGameHUD] ([2] browsable assets)...
+[2025.10.25-12.19.36:262][415]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_InGameHUD.WBP_InGameHUD]
+[2025.10.25-12.19.36:262][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_InGameHUD]
+[2025.10.25-12.19.36:299][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WBP_InGameHUD_Auto3
+[2025.10.25-12.19.36:300][415]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/WBP_InGameHUD_Auto3D1AC415646AE365AD156348641AAAA53.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/Autosaves/Game/Widgets/WBP_InGameHUD_Auto3.uasset'
+[2025.10.25-12.19.36:304][415]LogFileHelpers: Auto-saving content packages took 0.048
+[2025.10.25-12.20.05:190][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31619.164062
+[2025.10.25-12.20.06:188][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.20.06:188][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31619.830078, Update Interval: 316.111938
+[2025.10.25-12.26.01:567][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31975.566406
+[2025.10.25-12.26.02:568][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.26.02:568][574]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31976.232422, Update Interval: 351.402924
+[2025.10.25-12.32.41:953][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32375.943359
+[2025.10.25-12.32.42:956][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.32.42:956][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32376.609375, Update Interval: 350.606415
+[2025.10.25-12.34.45:381][143]LogDerivedDataCache: C:/Users/arrow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.25-12.38.48:627][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.25-12.38.48:638][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-12.38.48:986][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/WBP_InGameHUD] ([2] browsable assets)...
+[2025.10.25-12.38.48:988][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_InGameHUD]
+[2025.10.25-12.38.49:046][459]LogSavePackage: Moving output files for package: /Game/Widgets/WBP_InGameHUD
+[2025.10.25-12.38.49:047][459]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/WBP_InGameHUDE5D7A8A14C15C6AE39B1908A8168F260.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Content/Widgets/WBP_InGameHUD.uasset'
+[2025.10.25-12.38.49:077][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 439.597 ms (total: 2.00 sec)
+[2025.10.25-12.38.49:260][459]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-12.38.49:260][459]LogContentValidation: Enabled validators:
+[2025.10.25-12.38.49:260][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-12.38.49:260][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-12.38.49:260][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-12.38.49:260][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-12.38.49:260][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-12.38.49:260][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-12.38.49:263][459]AssetCheck: /Game/Widgets/WBP_InGameHUD Validating asset
+[2025.10.25-12.39.04:603][645]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-12.39.04:623][645]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2025.10.25-12.39.04:636][645]LogPlayLevel: [PlayLevel] Compiling WBP_InGameHUD before play...
+[2025.10.25-12.39.04:896][645]LogUObjectHash: Compacting FUObjectHashTables data took  12.24ms
+[2025.10.25-12.39.04:897][645]LogPlayLevel: PlayLevel: Blueprint regeneration took 272 ms (1 blueprints)
+[2025.10.25-12.39.04:897][645]LogStreaming: Display: FlushAsyncLoading(612): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-12.39.04:897][645]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-12.39.04:898][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001322s)
+[2025.10.25-12.39.04:899][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu (0.001359s)
+[2025.10.25-12.39.04:930][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.25-12.39.04:931][645]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-12.39.04:933][645]LogPlayLevel: PIE: World Init took: (0.002108s)
+[2025.10.25-12.39.04:934][645]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.10.25-12.39.04:941][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.39.04:941][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.39.04:941][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.39.04:949][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.39.04:949][645]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.39.04:949][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.39.04:949][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.39.04:949][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.39.04:949][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.39.04:949][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.39.04:949][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.39.04:949][645]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.39.04:965][645]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-12.39.04:966][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.39.04:966][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.39.04:966][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.39.04:966][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.10.25-12.39.04:966][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.10.25-12.39.04:968][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.10.25-12.39.04:968][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.10.25-12.39.04:968][645]LogInit: FAudioDevice initialized with ID 28.
+[2025.10.25-12.39.04:968][645]LogAudio: Display: Audio Device (ID: 28) registered with world 'MainMenu'.
+[2025.10.25-12.39.04:968][645]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.25-12.39.05:001][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.05:001][645]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-12.39.05:002][645]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-22.39.05
+[2025.10.25-12.39.05:002][645]LogWorld: Bringing up level for play took: 0.000527
+[2025.10.25-12.39.05:004][645]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.10.25-12.39.05:006][645]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-12.39.05:006][645]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.39.05:007][645]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-12.39.05:008][645]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-12.39.05:011][645]PIE: Server logged in
+[2025.10.25-12.39.05:013][645]PIE: Play in editor total start time 0.39 seconds.
+[2025.10.25-12.39.05:013][645]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-12.39.05:015][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001121s)
+[2025.10.25-12.39.05:015][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu (0.001156s)
+[2025.10.25-12.39.05:053][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.25-12.39.05:054][645]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-12.39.05:057][645]LogPlayLevel: PIE: World Init took: (0.002144s)
+[2025.10.25-12.39.05:057][645]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.10.25-12.39.05:057][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.39.05:057][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.39.05:057][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.39.05:057][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.39.05:064][645]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.39.05:064][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.39.05:064][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.39.05:064][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.39.05:064][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.39.05:064][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.39.05:064][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.39.05:064][645]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.39.05:081][645]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-12.39.05:082][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.39.05:082][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.39.05:082][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.39.05:083][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.10.25-12.39.05:083][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.10.25-12.39.05:086][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.10.25-12.39.05:086][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.10.25-12.39.05:086][645]LogInit: FAudioDevice initialized with ID 29.
+[2025.10.25-12.39.05:086][645]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainMenu'.
+[2025.10.25-12.39.05:086][645]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.25-12.39.05:119][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.05:119][645]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-12.39.05:119][645]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-22.39.05
+[2025.10.25-12.39.05:120][645]LogWorld: Bringing up level for play took: 0.000436
+[2025.10.25-12.39.05:122][645]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.10.25-12.39.05:124][645]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-12.39.05:124][645]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.39.05:125][645]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-12.39.05:125][645]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-12.39.05:129][645]PIE: Server logged in
+[2025.10.25-12.39.05:132][645]PIE: Play in editor total start time 0.508 seconds.
+[2025.10.25-12.39.05:303][645]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.39.05:437][646]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.39.06:846][709]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MultiArena"
+[2025.10.25-12.39.06:847][709]LogNet: Browse: /Game/Maps/MultiArena
+[2025.10.25-12.39.06:847][709]LogLoad: LoadMap: /Game/Maps/MultiArena
+[2025.10.25-12.39.06:847][709]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-12.39.06:847][709]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.39.06:847][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.39.06:906][709]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-12.39.06:908][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.25-12.39.06:912][709]LogStreaming: Display: FlushAsyncLoading(614): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-12.39.06:917][709]LogAudio: Display: Audio Device (ID: 29) registered with world 'MultiArena'.
+[2025.10.25-12.39.06:917][709]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.10.25-12.39.06:920][709]LogPlayLevel: PIE: World Init took: (0.002123s)
+[2025.10.25-12.39.06:920][709]LogLoad: Game class is 'BP_GM_Shooter_C'
+[2025.10.25-12.39.06:921][709]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MultiArena.MultiArena up for play (max tick rate 0) at 2025.10.25-22.39.06
+[2025.10.25-12.39.06:921][709]LogWorld: Bringing up level for play took: 0.001085
+[2025.10.25-12.39.06:922][709]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.39.06:924][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.06:924][709]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.25-12.39.06:924][709]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.25-12.39.06:924][709]LogLoad: Took 0.077978 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.10.25-12.39.06:924][709]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.10.25-12.39.06:970][710]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.39.08:919][801]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32762.892578
+[2025.10.25-12.39.09:835][814]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.39.09:835][814]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32763.458984, Update Interval: 341.057159
+[2025.10.25-12.39.23:879][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.23:879][273]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MultiArena
+[2025.10.25-12.39.23:879][273]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-12.39.23:888][273]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.39.23:888][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.39.23:890][273]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-12.39.23:891][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.23:891][273]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-12.39.23:897][273]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.39.23:897][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.39.23:899][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-12.39.23:905][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.39.23:936][273]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.25-12.39.23:936][273]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2025.10.25-12.39.23:938][273]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2025.10.25-12.39.23:944][273]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.25-12.39.23:944][273]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2025.10.25-12.39.23:947][273]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2025.10.25-12.39.23:972][273]LogUObjectHash: Compacting FUObjectHashTables data took  14.84ms
+[2025.10.25-12.39.24:013][274]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.10.25-12.39.24:016][274]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.10.25-12.39.31:600][908]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-12.39.31:628][908]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2025.10.25-12.39.31:630][908]LogPlayLevel: [PlayLevel] Compiling WBP_InGameHUD before play...
+[2025.10.25-12.39.31:792][908]LogUObjectHash: Compacting FUObjectHashTables data took  18.40ms
+[2025.10.25-12.39.31:796][908]LogPlayLevel: PlayLevel: Blueprint regeneration took 167 ms (1 blueprints)
+[2025.10.25-12.39.31:796][908]LogStreaming: Display: FlushAsyncLoading(616): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-12.39.31:796][908]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-12.39.31:797][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001244s)
+[2025.10.25-12.39.31:797][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu (0.001279s)
+[2025.10.25-12.39.31:826][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.25-12.39.31:828][908]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-12.39.31:829][908]LogPlayLevel: PIE: World Init took: (0.001938s)
+[2025.10.25-12.39.31:831][908]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.10.25-12.39.31:831][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.39.31:831][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.39.31:831][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.39.31:831][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.39.31:831][908]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.39.31:831][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.39.31:831][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.39.31:831][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.39.31:831][908]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.39.31:831][908]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.39.31:831][908]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.39.31:833][908]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.39.31:858][908]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-12.39.31:858][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.39.31:858][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.39.31:858][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.39.31:858][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.10.25-12.39.31:858][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.10.25-12.39.31:861][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.10.25-12.39.31:861][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.10.25-12.39.31:863][908]LogInit: FAudioDevice initialized with ID 30.
+[2025.10.25-12.39.31:863][908]LogAudio: Display: Audio Device (ID: 30) registered with world 'MainMenu'.
+[2025.10.25-12.39.31:865][908]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.25-12.39.31:892][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.31:894][908]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-12.39.31:895][908]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-22.39.31
+[2025.10.25-12.39.31:895][908]LogWorld: Bringing up level for play took: 0.000996
+[2025.10.25-12.39.31:903][908]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.10.25-12.39.31:903][908]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-12.39.31:904][908]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.39.31:904][908]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-12.39.31:904][908]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-12.39.31:908][908]PIE: Server logged in
+[2025.10.25-12.39.31:910][908]PIE: Play in editor total start time 0.282 seconds.
+[2025.10.25-12.39.31:910][908]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-12.39.31:911][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001108s)
+[2025.10.25-12.39.31:911][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu (0.001144s)
+[2025.10.25-12.39.31:942][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.25-12.39.31:945][908]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.25-12.39.31:947][908]LogPlayLevel: PIE: World Init took: (0.002224s)
+[2025.10.25-12.39.31:948][908]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.10.25-12.39.31:948][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.39.31:948][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.39.31:948][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.39.31:948][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.39.31:948][908]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.39.31:948][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.39.31:948][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.39.31:948][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.39.31:948][908]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.39.31:948][908]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.39.31:948][908]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.39.31:957][908]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.39.31:988][908]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.10.25-12.39.31:988][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.39.31:988][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.39.31:988][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.39.31:988][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.10.25-12.39.31:988][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.10.25-12.39.31:991][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.10.25-12.39.31:991][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.10.25-12.39.31:991][908]LogInit: FAudioDevice initialized with ID 31.
+[2025.10.25-12.39.31:991][908]LogAudio: Display: Audio Device (ID: 31) registered with world 'MainMenu'.
+[2025.10.25-12.39.31:991][908]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.25-12.39.32:021][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.32:021][908]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.10.25-12.39.32:021][908]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2025.10.25-22.39.32
+[2025.10.25-12.39.32:022][908]LogWorld: Bringing up level for play took: 0.000535
+[2025.10.25-12.39.32:024][908]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.10.25-12.39.32:026][908]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-12.39.32:027][908]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.39.32:028][908]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-12.39.32:028][908]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.10.25-12.39.32:031][908]PIE: Server logged in
+[2025.10.25-12.39.32:032][908]PIE: Play in editor total start time 0.405 seconds.
+[2025.10.25-12.39.32:122][908]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.39.32:287][909]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.39.37:274][246]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MultiArena"
+[2025.10.25-12.39.37:274][246]LogNet: Browse: /Game/Maps/MultiArena
+[2025.10.25-12.39.37:274][246]LogLoad: LoadMap: /Game/Maps/MultiArena
+[2025.10.25-12.39.37:274][246]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.10.25-12.39.37:277][246]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.39.37:277][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.39.37:336][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-12.39.37:338][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.25-12.39.37:340][246]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-12.39.37:345][246]LogAudio: Display: Audio Device (ID: 31) registered with world 'MultiArena'.
+[2025.10.25-12.39.37:345][246]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.10.25-12.39.37:347][246]LogPlayLevel: PIE: World Init took: (0.001910s)
+[2025.10.25-12.39.37:347][246]LogLoad: Game class is 'BP_GM_Shooter_C'
+[2025.10.25-12.39.37:348][246]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MultiArena.MultiArena up for play (max tick rate 0) at 2025.10.25-22.39.37
+[2025.10.25-12.39.37:349][246]LogWorld: Bringing up level for play took: 0.001327
+[2025.10.25-12.39.37:349][246]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-12.39.37:351][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.37:352][246]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.25-12.39.37:352][246]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.25-12.39.37:352][246]LogLoad: Took 0.076934 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.10.25-12.39.37:352][246]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.10.25-12.39.37:412][247]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.25-12.39.51:597][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.51:597][979]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MultiArena
+[2025.10.25-12.39.51:598][979]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-12.39.51:610][979]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.39.51:610][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.39.51:611][979]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.10.25-12.39.51:612][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.39.51:612][979]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.25-12.39.51:619][979]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.39.51:619][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.39.51:620][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-12.39.51:624][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.39.51:655][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.25-12.39.51:655][979]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2025.10.25-12.39.51:657][979]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2025.10.25-12.39.51:663][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.25-12.39.51:663][979]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2025.10.25-12.39.51:666][979]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2025.10.25-12.39.51:676][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.25-12.39.51:707][980]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.10.25-12.39.51:709][980]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.10.25-12.40.18:491][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.25-12.40.18:493][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Menus/MainMenu' took 0.034
+[2025.10.25-12.40.18:494][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/WBP_InGameHUD] ([2] browsable assets)...
+[2025.10.25-12.40.18:826][139]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/WBP_InGameHUD.WBP_InGameHUD]
+[2025.10.25-12.40.18:827][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/WBP_InGameHUD]
+[2025.10.25-12.40.18:892][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/WBP_InGameHUD_Auto4
+[2025.10.25-12.40.18:894][139]LogSavePackage: Moving '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/WBP_InGameHUD_Auto4D0534471452233A63C35E48B72D1FC7F.tmp' to '../../../../../../Users/arrow/Documents/Unreal Projects/KickBackArena_Unreal/KickBackArenaV2/Saved/Autosaves/Game/Widgets/WBP_InGameHUD_Auto4.uasset'
+[2025.10.25-12.40.18:916][139]LogFileHelpers: Auto-saving content packages took 0.423
+[2025.10.25-12.45.49:984][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33163.285156
+[2025.10.25-12.45.50:984][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.45.50:984][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33163.949219, Update Interval: 315.084686
+[2025.10.25-12.51.51:696][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33524.566406
+[2025.10.25-12.51.52:698][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.51.52:698][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33525.234375, Update Interval: 346.409485
+[2025.10.25-12.58.26:420][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33918.761719
+[2025.10.25-12.58.27:418][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.58.27:418][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33919.425781, Update Interval: 333.935974
+[2025.10.25-13.04.34:140][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34286.003906
+[2025.10.25-13.04.35:140][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-13.04.35:140][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34286.671875, Update Interval: 311.788696
