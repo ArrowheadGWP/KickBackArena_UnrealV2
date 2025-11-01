@@ -3952,3 +3952,660 @@ FPackageName: Skipped package /Game/PhysicsMaterials/PM_Character has a valid, m
 [2025.11.01-13.54.06:809][707]LogPlayLevel: Display: Destroying online subsystem :Context_31
 [2025.11.01-13.54.06:811][707]LogPlayLevel: Display: Destroying online subsystem :Context_30
 [2025.11.01-13.54.09:164][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.11.01-14.00.17:216][478]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5539.905762
+[2025.11.01-14.00.18:211][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-14.00.18:211][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5540.564941, Update Interval: 321.081573
+[2025.11.01-14.06.27:588][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5910.282715
+[2025.11.01-14.06.28:592][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-14.06.28:592][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5910.955566, Update Interval: 316.664948
+[2025.11.01-14.12.29:308][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6272.015625
+[2025.11.01-14.12.30:306][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-14.12.30:306][677]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6272.680664, Update Interval: 342.571503
+[2025.11.01-14.18.44:026][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6646.731445
+[2025.11.01-14.18.45:020][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-14.18.45:020][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6647.391602, Update Interval: 324.044312
+[2025.11.01-14.22.57:929][734]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.01-14.22.57:947][734]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2025.11.01-14.22.57:959][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.01-14.22.57:960][734]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.11.01-14.22.57:963][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002922s)
+[2025.11.01-14.22.57:963][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu (0.003012s)
+[2025.11.01-14.22.58:011][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.11.01-14.22.58:012][734]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.11.01-14.22.58:015][734]LogPlayLevel: PIE: World Init took: (0.002297s)
+[2025.11.01-14.22.58:016][734]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.11.01-14.22.58:016][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.01-14.22.58:016][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.01-14.22.58:016][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.01-14.22.58:016][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.01-14.22.58:016][734]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.01-14.22.58:016][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.01-14.22.58:016][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.01-14.22.58:016][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.01-14.22.58:016][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.01-14.22.58:016][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.01-14.22.58:016][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.01-14.22.58:018][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.01-14.22.58:042][734]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.11.01-14.22.58:044][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.01-14.22.58:044][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.01-14.22.58:044][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.01-14.22.58:045][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.11.01-14.22.58:045][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.11.01-14.22.58:047][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.11.01-14.22.58:047][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.11.01-14.22.58:074][734]LogInit: FAudioDevice initialized with ID 20.
+[2025.11.01-14.22.58:074][734]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMenu'.
+[2025.11.01-14.22.58:074][734]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.01-14.22.58:107][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.22.58:107][734]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.11.01-14.22.58:108][734]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.11.02-00.22.58
+[2025.11.01-14.22.58:108][734]LogWorld: Bringing up level for play took: 0.001105
+[2025.11.01-14.22.58:111][734]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.11.01-14.22.58:112][734]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.22.58:113][734]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.01-14.22.58:113][734]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.01-14.22.58:122][734]PIE: Server logged in
+[2025.11.01-14.22.58:125][734]PIE: Play in editor total start time 0.178 seconds.
+[2025.11.01-14.22.58:125][734]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.11.01-14.22.58:126][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002017s)
+[2025.11.01-14.22.58:126][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu (0.002053s)
+[2025.11.01-14.22.58:158][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.11.01-14.22.58:159][734]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.11.01-14.22.58:160][734]LogPlayLevel: PIE: World Init took: (0.002011s)
+[2025.11.01-14.22.58:162][734]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.11.01-14.22.58:162][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.01-14.22.58:162][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.01-14.22.58:162][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.01-14.22.58:162][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.01-14.22.58:162][734]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.01-14.22.58:162][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.01-14.22.58:162][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.01-14.22.58:162][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.01-14.22.58:162][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.01-14.22.58:162][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.01-14.22.58:162][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.01-14.22.58:165][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.01-14.22.58:185][734]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.11.01-14.22.58:185][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.01-14.22.58:185][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.01-14.22.58:185][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.01-14.22.58:187][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.11.01-14.22.58:187][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.11.01-14.22.58:195][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.11.01-14.22.58:195][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.11.01-14.22.58:195][734]LogInit: FAudioDevice initialized with ID 21.
+[2025.11.01-14.22.58:195][734]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainMenu'.
+[2025.11.01-14.22.58:195][734]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.01-14.22.58:225][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.22.58:225][734]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.11.01-14.22.58:225][734]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2025.11.02-00.22.58
+[2025.11.01-14.22.58:226][734]LogWorld: Bringing up level for play took: 0.000884
+[2025.11.01-14.22.58:236][734]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.11.01-14.22.58:237][734]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.22.58:238][734]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.01-14.22.58:238][734]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.01-14.22.58:242][734]PIE: Server logged in
+[2025.11.01-14.22.58:244][734]PIE: Play in editor total start time 0.297 seconds.
+[2025.11.01-14.22.58:320][734]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.22.58:553][735]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.24.05:877][931]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Menus/LobbyMenu?listen"
+[2025.11.01-14.24.05:878][931]LogNet: Browse: /Game/Maps/Menus/LobbyMenu?listen
+[2025.11.01-14.24.05:878][931]LogLoad: LoadMap: /Game/Maps/Menus/LobbyMenu?listen
+[2025.11.01-14.24.05:878][931]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.11.01-14.24.05:879][931]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.24.05:879][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.24.05:915][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-14.24.05:918][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.11.01-14.24.05:920][931]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.01-14.24.05:927][931]LogAudio: Display: Audio Device (ID: 21) registered with world 'LobbyMenu'.
+[2025.11.01-14.24.05:927][931]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMenu
+[2025.11.01-14.24.05:930][931]LogPlayLevel: PIE: World Init took: (0.002087s)
+[2025.11.01-14.24.05:930][931]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.11.01-14.24.05:930][931]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.11.01-14.24.05:930][931]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.11.01-14.24.05:930][931]LogPushModel: PushModel HandleCreation is now enabled
+[2025.11.01-14.24.05:930][931]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.11.01-14.24.05:931][931]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.11.01-14.24.05:931][931]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2025.11.01-14.24.05:931][931]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.24.05:931][931]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_25 IpNetDriver listening on port 7777
+[2025.11.01-14.24.05:932][931]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_1_LobbyMenu.LobbyMenu up for play (max tick rate 0) at 2025.11.02-00.24.05
+[2025.11.01-14.24.05:932][931]LogWorld: Bringing up level for play took: 0.001419
+[2025.11.01-14.24.05:934][931]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.24.05:937][931]LogLoad: Took 0.060090 seconds to LoadMap(/Game/Maps/Menus/LobbyMenu)
+[2025.11.01-14.24.05:937][931]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Menus/LobbyMenu
+[2025.11.01-14.24.05:985][932]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.25.08:112][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7030.830078
+[2025.11.01-14.25.08:471][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-14.25.08:471][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7031.173828, Update Interval: 312.543121
+[2025.11.01-14.25.34:754][197]LogOnlineSession: OSS: Join session: traveling to 192.168.1.157:7777
+[2025.11.01-14.25.34:755][197]LogGlobalStatus: UEngine::Browse Started Browse: "192.168.1.157/Game/Maps/Menus/MainMenu"
+[2025.11.01-14.25.34:755][197]LogNet: Browse: 192.168.1.157/Game/Maps/Menus/MainMenu
+[2025.11.01-14.25.34:755][197]LogPushModel: PushModel HandleCreation is now enabled
+[2025.11.01-14.25.34:755][197]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.11.01-14.25.34:757][197]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2025.11.01-14.25.34:757][197]LogNet: Created socket for bind address: 0.0.0.0:0
+[2025.11.01-14.25.34:757][197]LogNet: IpConnection_24 setting maximum channels to: 32767
+[2025.11.01-14.25.34:758][197]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.25.34:759][197]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 4
+[2025.11.01-14.25.34:759][197]LogNet: Game client on port 7777, rate 100000
+[2025.11.01-14.25.35:768][256]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.157:56936
+[2025.11.01-14.25.35:768][256]LogHandshake: SendConnectChallenge. Timestamp: 89.909077, Cookie: 000046213201147217116202106003220072063155124000029150120015
+[2025.11.01-14.25.35:782][257]LogHandshake: Cached server SessionID: 2
+[2025.11.01-14.25.35:782][257]LogHandshake: SendChallengeResponse. Timestamp: 89.909077, Cookie: 000046213201147217116202106003220072063155124000029150120015
+[2025.11.01-14.25.35:782][257]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.157:56936
+[2025.11.01-14.25.35:782][257]LogHandshake: SendChallengeAck. InCookie: 000046213201147217116202106003220072063155124000029150120015
+[2025.11.01-14.25.35:782][257]LogNet: Server accepting post-challenge connection from: 192.168.1.157:56936
+[2025.11.01-14.25.35:782][257]LogNet: IpConnection_25 setting maximum channels to: 32767
+[2025.11.01-14.25.35:783][257]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.25.35:783][257]LogNet: NotifyAcceptedConnection: Name: LobbyMenu, TimeStamp: 11/02/25 00:25:35, [UNetConnection] RemoteAddr: 192.168.1.157:56936, Name: IpConnection_25, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_25, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.25.35:783][257]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.157:56936, Name: IpConnection_25, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_25, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.25.35:803][258]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_24, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_26, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.25.35:803][258]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Menus/UEDPIE_1_LobbyMenu.LobbyMenu: Accepted
+[2025.11.01-14.25.35:803][258]LogNet: Remote platform little endian=1
+[2025.11.01-14.25.35:803][258]LogNet: This platform little endian=1
+[2025.11.01-14.25.35:821][259]LogNet: Login request: ?Name=ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE userId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE platform: NULL
+[2025.11.01-14.25.35:835][260]LogNet: Welcomed by server (Level: /Game/Maps/Menus/UEDPIE_1_LobbyMenu, Game: /Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C)
+[2025.11.01-14.25.35:835][260]LogLoad: LoadMap: 192.168.1.157/Game/Maps/Menus/LobbyMenu?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C
+[2025.11.01-14.25.35:835][260]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.11.01-14.25.35:836][260]LogOnlineSession: Warning: OSS: Player ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE is not part of session (GameSession)
+[2025.11.01-14.25.35:836][260]LogOnlineSession: Warning: OSS: Player ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE is not part of session (GameSession)
+[2025.11.01-14.25.35:836][260]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.25.35:836][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.25.35:895][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-14.25.35:898][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.11.01-14.25.35:899][260]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.01-14.25.35:903][260]LogAudio: Display: Audio Device (ID: 20) registered with world 'LobbyMenu'.
+[2025.11.01-14.25.35:903][260]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMenu
+[2025.11.01-14.25.35:904][260]LogPlayLevel: PIE: World Init took: (0.001812s)
+[2025.11.01-14.25.35:920][260]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_LobbyMenu.LobbyMenu up for play (max tick rate 0) at 2025.11.02-00.25.35
+[2025.11.01-14.25.35:920][260]LogWorld: Bringing up level for play took: 0.015973
+[2025.11.01-14.25.35:920][260]LogLoad: Took 0.085669 seconds to LoadMap(/Game/Maps/Menus/LobbyMenu)
+[2025.11.01-14.25.35:920][260]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Menus/LobbyMenu
+[2025.11.01-14.25.35:921][260]LogGlobalStatus: UPendingNetGame::TravelCompleted Pending net game travel completed
+[2025.11.01-14.25.35:921][260]LogNet: Client netspeed is 100000
+[2025.11.01-14.25.35:921][260]LogNet: Join request: /Game/Maps/Menus/MainMenu?Name=ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE?SplitscreenCount=1
+[2025.11.01-14.25.35:922][260]LogNet: Join succeeded: ArrrowheadGWP-14C60C
+[2025.11.01-14.25.35:929][260]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.25.35:938][261]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.25.52:398][180]Cmd: servertravel MultiArena
+[2025.11.01-14.25.52:401][180]LogGameMode: ProcessServerTravel: /Game/Maps/MultiArena
+[2025.11.01-14.25.52:434][182]LogGlobalStatus: UEngine::Browse Started Browse: "192.168.1.157/Game/Maps/MultiArena?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C"
+[2025.11.01-14.25.52:434][182]LogNet: Browse: 192.168.1.157/Game/Maps/MultiArena?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C
+[2025.11.01-14.25.52:435][182]LogNet: World NetDriver shutdown IpNetDriver_26 [GameNetDriver]
+[2025.11.01-14.25.52:435][182]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_26 
+[2025.11.01-14.25.52:435][182]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_24, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_26, IsServer: NO, PC: BP_PC_Menu_C_0, Owner: BP_PC_Menu_C_0, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE, Channels: 9, Time: 2025.11.01-14.25.52
+[2025.11.01-14.25.52:435][182]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_24, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_26, IsServer: NO, PC: BP_PC_Menu_C_0, Owner: BP_PC_Menu_C_0, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE
+[2025.11.01-14.25.52:435][182]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_26 shut down
+[2025.11.01-14.25.52:435][182]LogPushModel: PushModel HandleCreation is now enabled
+[2025.11.01-14.25.52:435][182]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.11.01-14.25.52:435][182]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2025.11.01-14.25.52:435][182]LogNet: Created socket for bind address: 0.0.0.0:0
+[2025.11.01-14.25.52:435][182]LogNet: IpConnection_26 setting maximum channels to: 32767
+[2025.11.01-14.25.52:436][182]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.25.52:437][182]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 5
+[2025.11.01-14.25.52:437][182]LogNet: Game client on port 7777, rate 100000
+[2025.11.01-14.25.52:438][182]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2025.11.01-14.25.52:438][182]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:56936, Name: IpConnection_25, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_25, IsServer: YES, PC: BP_PC_Menu_C_1, Owner: BP_PC_Menu_C_1, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE
+[2025.11.01-14.25.52:438][182]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.157:56936, Name: IpConnection_25, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_25, IsServer: YES, PC: BP_PC_Menu_C_1, Owner: BP_PC_Menu_C_1, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE, Channels: 9, Time: 2025.11.01-14.25.52
+[2025.11.01-14.25.52:438][182]LogNet: UNetConnection::SendCloseReason:
+[2025.11.01-14.25.52:438][182]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2025.11.01-14.25.52:438][182]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:56936, Name: IpConnection_25, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_25, IsServer: YES, PC: BP_PC_Menu_C_1, Owner: BP_PC_Menu_C_1, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE
+[2025.11.01-14.25.52:438][182]LogNet: UNetDriver::RemoveClientConnection - Removed address 192.168.1.157:56936 from MappedClientConnections for: [UNetConnection] RemoteAddr: 192.168.1.157:56936, Name: IpConnection_25, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_25, IsServer: YES, PC: BP_PC_Menu_C_1, Owner: BP_PC_Menu_C_1, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE
+[2025.11.01-14.25.53:446][242]LogNet: NotifyAcceptingConnection: Server LobbyMenu refused
+[2025.11.01-14.25.54:461][300]LogNet: NotifyAcceptingConnection: Server LobbyMenu refused
+[2025.11.01-14.25.55:463][360]LogNet: NotifyAcceptingConnection: Server LobbyMenu refused
+[2025.11.01-14.25.56:392][415]LogEngine: Server switch level: /Game/Maps/MultiArena?listen
+[2025.11.01-14.25.56:392][415]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MultiArena?listen"
+[2025.11.01-14.25.56:392][415]LogNet: Browse: /Game/Maps/MultiArena?listen
+[2025.11.01-14.25.56:392][415]LogLoad: LoadMap: /Game/Maps/MultiArena?listen
+[2025.11.01-14.25.56:392][415]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_1_LobbyMenu
+[2025.11.01-14.25.56:393][415]LogNet: World NetDriver shutdown IpNetDriver_25 [GameNetDriver]
+[2025.11.01-14.25.56:393][415]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_25 
+[2025.11.01-14.25.56:393][415]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_25 shut down
+[2025.11.01-14.25.56:394][415]LogWorld: UWorld::CleanupWorld for LobbyMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.25.56:394][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.25.56:453][415]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-14.25.56:455][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.01-14.25.56:457][415]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.01-14.25.56:462][415]LogAudio: Display: Audio Device (ID: 21) registered with world 'MultiArena'.
+[2025.11.01-14.25.56:462][415]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.11.01-14.25.56:466][415]LogPlayLevel: PIE: World Init took: (0.002372s)
+[2025.11.01-14.25.56:466][415]LogLoad: Game class is 'BP_GM_Shooter_C'
+[2025.11.01-14.25.56:466][415]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.11.01-14.25.56:466][415]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.11.01-14.25.56:466][415]LogPushModel: PushModel HandleCreation is now enabled
+[2025.11.01-14.25.56:466][415]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.11.01-14.25.56:466][415]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.11.01-14.25.56:467][415]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2025.11.01-14.25.56:467][415]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.25.56:467][415]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28 IpNetDriver listening on port 7777
+[2025.11.01-14.25.56:468][415]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MultiArena.MultiArena up for play (max tick rate 0) at 2025.11.02-00.25.56
+[2025.11.01-14.25.56:468][415]LogWorld: Bringing up level for play took: 0.001620
+[2025.11.01-14.25.56:469][415]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.25.56:470][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.25.56:471][415]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.01-14.25.56:471][415]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.01-14.25.56:471][415]LogLoad: Took 0.078580 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.11.01-14.25.56:471][415]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.11.01-14.25.56:488][416]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.157:50324
+[2025.11.01-14.25.56:488][416]LogHandshake: SendConnectChallenge. Timestamp: 0.110981, Cookie: 219028083089056045157129127100063047215226043164079185090162
+[2025.11.01-14.25.56:497][416]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.25.56:513][417]LogHandshake: Cached server SessionID: 3
+[2025.11.01-14.25.56:513][417]LogHandshake: SendChallengeResponse. Timestamp: 0.110981, Cookie: 219028083089056045157129127100063047215226043164079185090162
+[2025.11.01-14.25.56:513][417]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.157:50324
+[2025.11.01-14.25.56:513][417]LogHandshake: SendChallengeAck. InCookie: 219028083089056045157129127100063047215226043164079185090162
+[2025.11.01-14.25.56:513][417]LogNet: Server accepting post-challenge connection from: 192.168.1.157:50324
+[2025.11.01-14.25.56:514][417]LogNet: IpConnection_27 setting maximum channels to: 32767
+[2025.11.01-14.25.56:514][417]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.25.56:514][417]LogNet: NotifyAcceptedConnection: Name: MultiArena, TimeStamp: 11/02/25 00:25:56, [UNetConnection] RemoteAddr: 192.168.1.157:50324, Name: IpConnection_27, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.25.56:514][417]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.157:50324, Name: IpConnection_27, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.25.56:542][418]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_26, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_27, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.25.56:542][418]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MultiArena.MultiArena: Accepted
+[2025.11.01-14.25.56:542][418]LogNet: Remote platform little endian=1
+[2025.11.01-14.25.56:542][418]LogNet: This platform little endian=1
+[2025.11.01-14.25.56:565][419]LogNet: Login request: ?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C?Name=ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE userId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE platform: NULL
+[2025.11.01-14.25.56:578][420]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MultiArena, Game: /Game/Framework/Shooter/BP_GM_Shooter.BP_GM_Shooter_C)
+[2025.11.01-14.25.56:578][420]LogLoad: LoadMap: 192.168.1.157/Game/Maps/MultiArena?game=/Game/Framework/Shooter/BP_GM_Shooter.BP_GM_Shooter_C
+[2025.11.01-14.25.56:578][420]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_LobbyMenu
+[2025.11.01-14.25.56:579][420]LogWorld: UWorld::CleanupWorld for LobbyMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.25.56:579][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.25.56:630][420]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-14.25.56:632][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.01-14.25.56:634][420]LogStreaming: Display: FlushAsyncLoading(588): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.01-14.25.56:638][420]LogAudio: Display: Audio Device (ID: 20) registered with world 'MultiArena'.
+[2025.11.01-14.25.56:639][420]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.11.01-14.25.56:640][420]LogPlayLevel: PIE: World Init took: (0.001792s)
+[2025.11.01-14.25.56:641][420]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MultiArena.MultiArena up for play (max tick rate 0) at 2025.11.02-00.25.56
+[2025.11.01-14.25.56:641][420]LogWorld: Bringing up level for play took: 0.000999
+[2025.11.01-14.25.56:641][420]LogLoad: Took 0.063197 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.11.01-14.25.56:641][420]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.11.01-14.25.56:641][420]LogGlobalStatus: UPendingNetGame::TravelCompleted Pending net game travel completed
+[2025.11.01-14.25.56:641][420]LogNet: Client netspeed is 100000
+[2025.11.01-14.25.56:641][420]LogNet: Join request: /Game/Maps/Menus/MainMenu?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C?Name=ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE?SplitscreenCount=1
+[2025.11.01-14.25.56:641][420]LogNet: Join succeeded: ArrrowheadGWP-14C60C
+[2025.11.01-14.25.56:654][420]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.25.56:657][421]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.25.56:700][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.25.56:702][422]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.01-14.25.56:702][422]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.01-14.25.56:702][422]LogOnlineSession: OSS: Player ArrrowheadGWP-172375704167713D25F586A642C1B958 already registered in session GameSession
+[2025.11.01-14.25.56:702][422]LogOnlineSession: OSS: Player ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE already registered in session GameSession
+[2025.11.01-14.25.57:210][448]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.01-14.25.57:246][448]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.01-14.28.01:606][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.28.01:606][559]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MultiArena
+[2025.11.01-14.28.01:606][559]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.01-14.28.01:768][559]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.28.01:768][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.28.01:770][559]LogNet: World NetDriver shutdown IpNetDriver_28 [GameNetDriver]
+[2025.11.01-14.28.01:770][559]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28 
+[2025.11.01-14.28.01:770][559]LogNet: UNetConnection::SendCloseReason:
+[2025.11.01-14.28.01:770][559]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2025.11.01-14.28.01:770][559]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 192.168.1.157:50324, Name: IpConnection_27, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_PC_Arena_C_1, Owner: BP_PC_Arena_C_1, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE
+[2025.11.01-14.28.01:770][559]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.157:50324, Name: IpConnection_27, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_PC_Arena_C_1, Owner: BP_PC_Arena_C_1, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE, Channels: 11, Time: 2025.11.01-14.28.01
+[2025.11.01-14.28.01:770][559]LogNet: UNetConnection::SendCloseReason:
+[2025.11.01-14.28.01:770][559]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2025.11.01-14.28.01:770][559]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:50324, Name: IpConnection_27, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_PC_Arena_C_1, Owner: BP_PC_Arena_C_1, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE
+[2025.11.01-14.28.01:770][559]LogNet: UNetDriver::RemoveClientConnection - Removed address 192.168.1.157:50324 from MappedClientConnections for: [UNetConnection] RemoteAddr: 192.168.1.157:50324, Name: IpConnection_27, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_PC_Arena_C_1, Owner: BP_PC_Arena_C_1, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE
+[2025.11.01-14.28.01:770][559]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28 shut down
+[2025.11.01-14.28.01:770][559]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MultiArena
+[2025.11.01-14.28.01:770][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.28.01:770][559]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.01-14.28.01:782][559]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.28.01:782][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.28.01:783][559]LogNet: World NetDriver shutdown IpNetDriver_27 [GameNetDriver]
+[2025.11.01-14.28.01:783][559]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_27 
+[2025.11.01-14.28.01:783][559]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_26, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_27, IsServer: NO, PC: BP_PC_Arena_C_0, Owner: BP_PC_Arena_C_0, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE, Channels: 11, Time: 2025.11.01-14.28.01
+[2025.11.01-14.28.01:783][559]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_26, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_27, IsServer: NO, PC: BP_PC_Arena_C_0, Owner: BP_PC_Arena_C_0, UniqueId: NULL:ArrrowheadGWP-14C60C81441517B6DFA8AEB9B5F34CAE
+[2025.11.01-14.28.01:783][559]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_27 shut down
+[2025.11.01-14.28.01:783][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.01-14.28.01:789][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.28.01:837][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.11.01-14.28.01:837][559]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.11.01-14.28.01:867][559]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.11.01-14.28.01:874][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.11.01-14.28.01:874][559]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.11.01-14.28.01:877][559]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.11.01-14.28.02:056][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.11.01-14.28.02:089][560]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.11.01-14.28.02:091][560]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.11.01-14.29.26:216][899]LogDerivedDataCache: C:/Users/arrow/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.01-14.31.00:520][181]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7383.254883
+[2025.11.01-14.31.01:847][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-14.31.01:847][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7384.248047, Update Interval: 308.822296
+[2025.11.01-14.36.40:908][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7723.645020
+[2025.11.01-14.36.41:901][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-14.36.41:901][206]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7724.306152, Update Interval: 341.068146
+[2025.11.01-14.42.34:069][342]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.01-14.42.34:085][342]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2025.11.01-14.42.34:086][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.01-14.42.34:086][342]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.11.01-14.42.34:088][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002165s)
+[2025.11.01-14.42.34:088][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu (0.002220s)
+[2025.11.01-14.42.34:130][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.01-14.42.34:131][342]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.11.01-14.42.34:133][342]LogPlayLevel: PIE: World Init took: (0.002052s)
+[2025.11.01-14.42.34:134][342]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.11.01-14.42.34:134][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.01-14.42.34:134][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.01-14.42.34:134][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.01-14.42.34:134][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.01-14.42.34:134][342]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.01-14.42.34:134][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.01-14.42.34:134][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.01-14.42.34:134][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.01-14.42.34:134][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.01-14.42.34:134][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.01-14.42.34:134][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.01-14.42.34:136][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.01-14.42.34:167][342]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.11.01-14.42.34:167][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.01-14.42.34:167][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.01-14.42.34:167][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.01-14.42.34:168][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.11.01-14.42.34:168][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.11.01-14.42.34:169][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.11.01-14.42.34:169][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.11.01-14.42.34:169][342]LogInit: FAudioDevice initialized with ID 22.
+[2025.11.01-14.42.34:169][342]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenu'.
+[2025.11.01-14.42.34:169][342]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.01-14.42.34:203][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.42.34:203][342]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.11.01-14.42.34:204][342]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.11.02-00.42.34
+[2025.11.01-14.42.34:204][342]LogWorld: Bringing up level for play took: 0.001229
+[2025.11.01-14.42.34:217][342]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.11.01-14.42.34:218][342]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.42.34:221][342]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.01-14.42.34:221][342]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.01-14.42.34:225][342]PIE: Server logged in
+[2025.11.01-14.42.34:228][342]PIE: Play in editor total start time 0.143 seconds.
+[2025.11.01-14.42.34:228][342]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.11.01-14.42.34:229][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001898s)
+[2025.11.01-14.42.34:229][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/MainMenu.MainMenu to /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu (0.001931s)
+[2025.11.01-14.42.34:257][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.11.01-14.42.34:258][342]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.11.01-14.42.34:261][342]LogPlayLevel: PIE: World Init took: (0.002001s)
+[2025.11.01-14.42.34:261][342]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.11.01-14.42.34:261][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.01-14.42.34:261][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.01-14.42.34:261][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.01-14.42.34:261][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.01-14.42.34:261][342]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.01-14.42.34:261][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.01-14.42.34:261][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.01-14.42.34:261][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.01-14.42.34:261][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.01-14.42.34:261][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.01-14.42.34:261][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.01-14.42.34:271][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.01-14.42.34:290][342]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- JBL Quantum910)
+[2025.11.01-14.42.34:290][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.01-14.42.34:290][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.01-14.42.34:291][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.01-14.42.34:291][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.11.01-14.42.34:291][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.11.01-14.42.34:307][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.11.01-14.42.34:307][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.11.01-14.42.34:321][342]LogInit: FAudioDevice initialized with ID 23.
+[2025.11.01-14.42.34:321][342]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenu'.
+[2025.11.01-14.42.34:321][342]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.01-14.42.34:351][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.42.34:353][342]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.11.01-14.42.34:353][342]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2025.11.02-00.42.34
+[2025.11.01-14.42.34:354][342]LogWorld: Bringing up level for play took: 0.000922
+[2025.11.01-14.42.34:362][342]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.11.01-14.42.34:362][342]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.42.34:363][342]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.01-14.42.34:363][342]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.11.01-14.42.34:368][342]PIE: Server logged in
+[2025.11.01-14.42.34:371][342]PIE: Play in editor total start time 0.285 seconds.
+[2025.11.01-14.42.34:441][342]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.42.34:640][343]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.42.38:474][569]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/Menus/LobbyMenu?listen"
+[2025.11.01-14.42.38:474][569]LogNet: Browse: /Game/Maps/Menus/LobbyMenu?listen
+[2025.11.01-14.42.38:474][569]LogLoad: LoadMap: /Game/Maps/Menus/LobbyMenu?listen
+[2025.11.01-14.42.38:474][569]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_1_MainMenu
+[2025.11.01-14.42.38:476][569]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.42.38:476][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.42.38:508][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-14.42.38:509][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.11.01-14.42.38:511][569]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.01-14.42.38:515][569]LogAudio: Display: Audio Device (ID: 23) registered with world 'LobbyMenu'.
+[2025.11.01-14.42.38:515][569]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMenu
+[2025.11.01-14.42.38:517][569]LogPlayLevel: PIE: World Init took: (0.002227s)
+[2025.11.01-14.42.38:517][569]LogLoad: Game class is 'BP_GMB_Menu_C'
+[2025.11.01-14.42.38:517][569]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.11.01-14.42.38:517][569]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.11.01-14.42.38:517][569]LogPushModel: PushModel HandleCreation is now enabled
+[2025.11.01-14.42.38:517][569]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.11.01-14.42.38:518][569]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.11.01-14.42.38:518][569]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2025.11.01-14.42.38:518][569]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.42.38:518][569]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29 IpNetDriver listening on port 7777
+[2025.11.01-14.42.38:519][569]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_1_LobbyMenu.LobbyMenu up for play (max tick rate 0) at 2025.11.02-00.42.38
+[2025.11.01-14.42.38:519][569]LogWorld: Bringing up level for play took: 0.001174
+[2025.11.01-14.42.38:520][569]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.42.38:524][569]LogLoad: Took 0.049670 seconds to LoadMap(/Game/Maps/Menus/LobbyMenu)
+[2025.11.01-14.42.38:524][569]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Menus/LobbyMenu
+[2025.11.01-14.42.38:543][569]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.43.14:322][705]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8117.057129
+[2025.11.01-14.43.14:673][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.01-14.43.14:673][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8117.392578, Update Interval: 319.385956
+[2025.11.01-14.44.06:630][833]LogOnlineSession: OSS: Join session: traveling to 192.168.1.157:7777
+[2025.11.01-14.44.06:631][833]LogGlobalStatus: UEngine::Browse Started Browse: "192.168.1.157/Game/Maps/Menus/MainMenu"
+[2025.11.01-14.44.06:632][833]LogNet: Browse: 192.168.1.157/Game/Maps/Menus/MainMenu
+[2025.11.01-14.44.06:632][833]LogPushModel: PushModel HandleCreation is now enabled
+[2025.11.01-14.44.06:632][833]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.11.01-14.44.06:632][833]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2025.11.01-14.44.06:632][833]LogNet: Created socket for bind address: 0.0.0.0:0
+[2025.11.01-14.44.06:632][833]LogNet: IpConnection_28 setting maximum channels to: 32767
+[2025.11.01-14.44.06:632][833]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.44.06:634][833]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 6
+[2025.11.01-14.44.06:635][833]LogNet: Game client on port 7777, rate 100000
+[2025.11.01-14.44.07:638][893]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.157:60026
+[2025.11.01-14.44.07:638][893]LogHandshake: SendConnectChallenge. Timestamp: 89.181174, Cookie: 054001218175113147238204113076252080124254213217071024164171
+[2025.11.01-14.44.07:654][894]LogHandshake: Cached server SessionID: 3
+[2025.11.01-14.44.07:654][894]LogHandshake: SendChallengeResponse. Timestamp: 89.181174, Cookie: 054001218175113147238204113076252080124254213217071024164171
+[2025.11.01-14.44.07:654][894]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.157:60026
+[2025.11.01-14.44.07:654][894]LogHandshake: SendChallengeAck. InCookie: 054001218175113147238204113076252080124254213217071024164171
+[2025.11.01-14.44.07:654][894]LogNet: Server accepting post-challenge connection from: 192.168.1.157:60026
+[2025.11.01-14.44.07:654][894]LogNet: IpConnection_29 setting maximum channels to: 32767
+[2025.11.01-14.44.07:654][894]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.44.07:654][894]LogNet: NotifyAcceptedConnection: Name: LobbyMenu, TimeStamp: 11/02/25 00:44:07, [UNetConnection] RemoteAddr: 192.168.1.157:60026, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.44.07:654][894]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.157:60026, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.44.07:669][895]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_28, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_30, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.44.07:669][895]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Menus/UEDPIE_1_LobbyMenu.LobbyMenu: Accepted
+[2025.11.01-14.44.07:670][895]LogNet: Remote platform little endian=1
+[2025.11.01-14.44.07:670][895]LogNet: This platform little endian=1
+[2025.11.01-14.44.07:686][896]LogNet: Login request: ?Name=ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0 userId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0 platform: NULL
+[2025.11.01-14.44.07:702][897]LogNet: Welcomed by server (Level: /Game/Maps/Menus/UEDPIE_1_LobbyMenu, Game: /Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C)
+[2025.11.01-14.44.07:702][897]LogLoad: LoadMap: 192.168.1.157/Game/Maps/Menus/LobbyMenu?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C
+[2025.11.01-14.44.07:702][897]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_MainMenu
+[2025.11.01-14.44.07:702][897]LogOnlineSession: Warning: OSS: Player ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0 is not part of session (GameSession)
+[2025.11.01-14.44.07:702][897]LogOnlineSession: Warning: OSS: Player ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0 is not part of session (GameSession)
+[2025.11.01-14.44.07:703][897]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.44.07:703][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.44.07:738][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-14.44.07:740][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.11.01-14.44.07:744][897]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.01-14.44.07:746][897]LogAudio: Display: Audio Device (ID: 22) registered with world 'LobbyMenu'.
+[2025.11.01-14.44.07:746][897]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyMenu
+[2025.11.01-14.44.07:748][897]LogPlayLevel: PIE: World Init took: (0.002175s)
+[2025.11.01-14.44.07:749][897]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_LobbyMenu.LobbyMenu up for play (max tick rate 0) at 2025.11.02-00.44.07
+[2025.11.01-14.44.07:750][897]LogWorld: Bringing up level for play took: 0.001019
+[2025.11.01-14.44.07:750][897]LogLoad: Took 0.048663 seconds to LoadMap(/Game/Maps/Menus/LobbyMenu)
+[2025.11.01-14.44.07:750][897]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/Menus/LobbyMenu
+[2025.11.01-14.44.07:750][897]LogGlobalStatus: UPendingNetGame::TravelCompleted Pending net game travel completed
+[2025.11.01-14.44.07:750][897]LogNet: Client netspeed is 100000
+[2025.11.01-14.44.07:750][897]LogNet: Join request: /Game/Maps/Menus/MainMenu?Name=ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0?SplitscreenCount=1
+[2025.11.01-14.44.07:751][897]LogNet: Join succeeded: ArrrowheadGWP-073E4E
+[2025.11.01-14.44.07:761][897]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.44.07:766][898]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.44.29:478][167]Cmd: servertravel MultiArena
+[2025.11.01-14.44.29:479][167]LogGameMode: ProcessServerTravel: /Game/Maps/MultiArena
+[2025.11.01-14.44.29:514][169]LogGlobalStatus: UEngine::Browse Started Browse: "192.168.1.157/Game/Maps/MultiArena?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C"
+[2025.11.01-14.44.29:514][169]LogNet: Browse: 192.168.1.157/Game/Maps/MultiArena?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C
+[2025.11.01-14.44.29:514][169]LogNet: World NetDriver shutdown IpNetDriver_30 [GameNetDriver]
+[2025.11.01-14.44.29:514][169]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_30 
+[2025.11.01-14.44.29:514][169]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_28, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_30, IsServer: NO, PC: BP_PC_Menu_C_0, Owner: BP_PC_Menu_C_0, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0, Channels: 9, Time: 2025.11.01-14.44.29
+[2025.11.01-14.44.29:514][169]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_28, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_30, IsServer: NO, PC: BP_PC_Menu_C_0, Owner: BP_PC_Menu_C_0, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0
+[2025.11.01-14.44.29:514][169]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_30 shut down
+[2025.11.01-14.44.29:515][169]LogPushModel: PushModel HandleCreation is now enabled
+[2025.11.01-14.44.29:515][169]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.11.01-14.44.29:515][169]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2025.11.01-14.44.29:515][169]LogNet: Created socket for bind address: 0.0.0.0:0
+[2025.11.01-14.44.29:515][169]LogNet: IpConnection_30 setting maximum channels to: 32767
+[2025.11.01-14.44.29:515][169]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.44.29:517][169]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 7
+[2025.11.01-14.44.29:517][169]LogNet: Game client on port 7777, rate 100000
+[2025.11.01-14.44.29:518][169]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2025.11.01-14.44.29:518][169]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:60026, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29, IsServer: YES, PC: BP_PC_Menu_C_1, Owner: BP_PC_Menu_C_1, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0
+[2025.11.01-14.44.29:518][169]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.157:60026, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29, IsServer: YES, PC: BP_PC_Menu_C_1, Owner: BP_PC_Menu_C_1, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0, Channels: 9, Time: 2025.11.01-14.44.29
+[2025.11.01-14.44.29:518][169]LogNet: UNetConnection::SendCloseReason:
+[2025.11.01-14.44.29:518][169]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2025.11.01-14.44.29:518][169]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:60026, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29, IsServer: YES, PC: BP_PC_Menu_C_1, Owner: BP_PC_Menu_C_1, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0
+[2025.11.01-14.44.29:518][169]LogNet: UNetDriver::RemoveClientConnection - Removed address 192.168.1.157:60026 from MappedClientConnections for: [UNetConnection] RemoteAddr: 192.168.1.157:60026, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29, IsServer: YES, PC: BP_PC_Menu_C_1, Owner: BP_PC_Menu_C_1, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0
+[2025.11.01-14.44.30:523][229]LogNet: NotifyAcceptingConnection: Server LobbyMenu refused
+[2025.11.01-14.44.31:529][289]LogNet: NotifyAcceptingConnection: Server LobbyMenu refused
+[2025.11.01-14.44.32:536][349]LogNet: NotifyAcceptingConnection: Server LobbyMenu refused
+[2025.11.01-14.44.33:473][405]LogEngine: Server switch level: /Game/Maps/MultiArena?listen
+[2025.11.01-14.44.33:473][405]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MultiArena?listen"
+[2025.11.01-14.44.33:473][405]LogNet: Browse: /Game/Maps/MultiArena?listen
+[2025.11.01-14.44.33:473][405]LogLoad: LoadMap: /Game/Maps/MultiArena?listen
+[2025.11.01-14.44.33:473][405]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_1_LobbyMenu
+[2025.11.01-14.44.33:473][405]LogNet: World NetDriver shutdown IpNetDriver_29 [GameNetDriver]
+[2025.11.01-14.44.33:473][405]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29 
+[2025.11.01-14.44.33:473][405]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29 shut down
+[2025.11.01-14.44.33:474][405]LogWorld: UWorld::CleanupWorld for LobbyMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.44.33:474][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.44.33:510][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-14.44.33:512][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.01-14.44.33:515][405]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.01-14.44.33:520][405]LogAudio: Display: Audio Device (ID: 23) registered with world 'MultiArena'.
+[2025.11.01-14.44.33:520][405]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.11.01-14.44.33:526][405]LogPlayLevel: PIE: World Init took: (0.006468s)
+[2025.11.01-14.44.33:526][405]LogLoad: Game class is 'BP_GM_Shooter_C'
+[2025.11.01-14.44.33:526][405]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2025.11.01-14.44.33:526][405]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2025.11.01-14.44.33:526][405]LogPushModel: PushModel HandleCreation is now enabled
+[2025.11.01-14.44.33:526][405]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2025.11.01-14.44.33:526][405]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2025.11.01-14.44.33:526][405]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2025.11.01-14.44.33:526][405]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.44.33:526][405]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32 IpNetDriver listening on port 7777
+[2025.11.01-14.44.33:529][405]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MultiArena.MultiArena up for play (max tick rate 0) at 2025.11.02-00.44.33
+[2025.11.01-14.44.33:529][405]LogWorld: Bringing up level for play took: 0.001494
+[2025.11.01-14.44.33:530][405]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.44.33:530][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.44.33:531][405]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.01-14.44.33:531][405]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.01-14.44.33:531][405]LogLoad: Took 0.057283 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.11.01-14.44.33:531][405]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.11.01-14.44.33:556][406]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.44.33:558][406]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.157:62338
+[2025.11.01-14.44.33:558][406]LogHandshake: SendConnectChallenge. Timestamp: 0.100857, Cookie: 221210057025234115163143223035254104063130224243213074070111
+[2025.11.01-14.44.33:572][407]LogHandshake: Cached server SessionID: 0
+[2025.11.01-14.44.33:572][407]LogHandshake: SendChallengeResponse. Timestamp: 0.100857, Cookie: 221210057025234115163143223035254104063130224243213074070111
+[2025.11.01-14.44.33:572][407]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.157:62338
+[2025.11.01-14.44.33:572][407]LogHandshake: SendChallengeAck. InCookie: 221210057025234115163143223035254104063130224243213074070111
+[2025.11.01-14.44.33:572][407]LogNet: Server accepting post-challenge connection from: 192.168.1.157:62338
+[2025.11.01-14.44.33:572][407]LogNet: IpConnection_31 setting maximum channels to: 32767
+[2025.11.01-14.44.33:573][407]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2025.11.01-14.44.33:573][407]LogNet: NotifyAcceptedConnection: Name: MultiArena, TimeStamp: 11/02/25 00:44:33, [UNetConnection] RemoteAddr: 192.168.1.157:62338, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.44.33:573][407]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.157:62338, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.44.33:590][408]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_30, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_31, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2025.11.01-14.44.33:591][408]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_MultiArena.MultiArena: Accepted
+[2025.11.01-14.44.33:591][408]LogNet: Remote platform little endian=1
+[2025.11.01-14.44.33:591][408]LogNet: This platform little endian=1
+[2025.11.01-14.44.33:604][409]LogNet: Login request: ?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C?Name=ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0 userId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0 platform: NULL
+[2025.11.01-14.44.33:617][410]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_MultiArena, Game: /Game/Framework/Shooter/BP_GM_Shooter.BP_GM_Shooter_C)
+[2025.11.01-14.44.33:617][410]LogLoad: LoadMap: 192.168.1.157/Game/Maps/MultiArena?game=/Game/Framework/Shooter/BP_GM_Shooter.BP_GM_Shooter_C
+[2025.11.01-14.44.33:617][410]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_LobbyMenu
+[2025.11.01-14.44.33:618][410]LogWorld: UWorld::CleanupWorld for LobbyMenu, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.44.33:618][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.44.33:668][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.01-14.44.33:670][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.01-14.44.33:673][410]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.01-14.44.33:677][410]LogAudio: Display: Audio Device (ID: 22) registered with world 'MultiArena'.
+[2025.11.01-14.44.33:677][410]LogChaosDD: Creating Chaos Debug Draw Scene for world MultiArena
+[2025.11.01-14.44.33:678][410]LogPlayLevel: PIE: World Init took: (0.001936s)
+[2025.11.01-14.44.33:680][410]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MultiArena.MultiArena up for play (max tick rate 0) at 2025.11.02-00.44.33
+[2025.11.01-14.44.33:681][410]LogWorld: Bringing up level for play took: 0.001740
+[2025.11.01-14.44.33:681][410]LogLoad: Took 0.063608 seconds to LoadMap(/Game/Maps/MultiArena)
+[2025.11.01-14.44.33:681][410]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/MultiArena
+[2025.11.01-14.44.33:681][410]LogGlobalStatus: UPendingNetGame::TravelCompleted Pending net game travel completed
+[2025.11.01-14.44.33:681][410]LogNet: Client netspeed is 100000
+[2025.11.01-14.44.33:681][410]LogNet: Join request: /Game/Maps/Menus/MainMenu?game=/Game/Framework/Menu/BP_GMB_Menu.BP_GMB_Menu_C?Name=ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0?SplitscreenCount=1
+[2025.11.01-14.44.33:681][410]LogNet: Join succeeded: ArrrowheadGWP-073E4E
+[2025.11.01-14.44.33:694][411]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.01-14.44.33:696][411]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.11.01-14.44.33:734][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.44.33:735][412]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.11.01-14.44.33:735][412]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.11.01-14.44.33:735][412]LogOnlineSession: OSS: Player ArrrowheadGWP-FECB4F564DAF36D932AA8C92EB9FCA23 already registered in session GameSession
+[2025.11.01-14.44.33:735][412]LogOnlineSession: OSS: Player ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0 already registered in session GameSession
+[2025.11.01-14.46.40:657][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.46.40:657][809]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MultiArena
+[2025.11.01-14.46.40:657][809]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.01-14.46.40:679][809]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.46.40:679][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.46.40:680][809]LogNet: World NetDriver shutdown IpNetDriver_32 [GameNetDriver]
+[2025.11.01-14.46.40:680][809]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32 
+[2025.11.01-14.46.40:680][809]LogNet: UNetConnection::SendCloseReason:
+[2025.11.01-14.46.40:680][809]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2025.11.01-14.46.40:680][809]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 192.168.1.157:62338, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_PC_Arena_C_1, Owner: BP_PC_Arena_C_1, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0
+[2025.11.01-14.46.40:680][809]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.157:62338, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_PC_Arena_C_1, Owner: BP_PC_Arena_C_1, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0, Channels: 11, Time: 2025.11.01-14.46.40
+[2025.11.01-14.46.40:680][809]LogNet: UNetConnection::SendCloseReason:
+[2025.11.01-14.46.40:681][809]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2025.11.01-14.46.40:681][809]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:62338, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_PC_Arena_C_1, Owner: BP_PC_Arena_C_1, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0
+[2025.11.01-14.46.40:681][809]LogNet: UNetDriver::RemoveClientConnection - Removed address 192.168.1.157:62338 from MappedClientConnections for: [UNetConnection] RemoteAddr: 192.168.1.157:62338, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_PC_Arena_C_1, Owner: BP_PC_Arena_C_1, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0
+[2025.11.01-14.46.40:681][809]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_32 shut down
+[2025.11.01-14.46.40:681][809]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MultiArena
+[2025.11.01-14.46.40:681][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.01-14.46.40:681][809]LogSlate: Window 'KickBackArenaV2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.01-14.46.40:689][809]LogWorld: UWorld::CleanupWorld for MultiArena, bSessionEnded=true, bCleanupResources=true
+[2025.11.01-14.46.40:689][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.46.40:690][809]LogNet: World NetDriver shutdown IpNetDriver_31 [GameNetDriver]
+[2025.11.01-14.46.40:690][809]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_31 
+[2025.11.01-14.46.40:690][809]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_30, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_31, IsServer: NO, PC: BP_PC_Arena_C_0, Owner: BP_PC_Arena_C_0, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0, Channels: 11, Time: 2025.11.01-14.46.40
+[2025.11.01-14.46.40:690][809]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.157:7777, Name: IpConnection_30, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_31, IsServer: NO, PC: BP_PC_Arena_C_0, Owner: BP_PC_Arena_C_0, UniqueId: NULL:ArrrowheadGWP-073E4EFE4DAC900911AF10AB581B0CB0
+[2025.11.01-14.46.40:690][809]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_31 shut down
+[2025.11.01-14.46.40:690][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.01-14.46.40:697][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.01-14.46.40:730][809]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.01-14.46.40:730][809]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.11.01-14.46.40:732][809]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.11.01-14.46.40:738][809]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.01-14.46.40:738][809]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.11.01-14.46.40:742][809]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.11.01-14.46.40:786][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.01-14.46.40:819][810]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.11.01-14.46.40:821][810]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.11.01-14.47.44:100][551]LogPSOHitching: Encountered 100 PSO creation hitches so far (45 graphics, 55 compute). 0 of them were precached.
+[2025.11.01-14.48.02:985][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
